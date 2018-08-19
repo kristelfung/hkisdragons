@@ -2,6 +2,9 @@
 title: HKIS Dragons
 timezone: UTC
 collections:
+  apac-basketball:
+    title: APAC Basketball
+    output: true
   china-cup-volleyball:
     title: China Cup Volleyball
     output: true
