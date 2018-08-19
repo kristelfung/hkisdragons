@@ -2,9 +2,6 @@
 title: HKIS Dragons
 timezone: UTC
 collections:
-  collectionone:
-    title: CollectionOne
-    output: true
   posts:
     title: Posts
     output: true
