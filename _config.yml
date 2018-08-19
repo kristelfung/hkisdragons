@@ -5,9 +5,6 @@ collections:
   collectionone:
     title: CollectionOne
     output: true
-  collectiontwo:
-    title: CollectionTwo
-    output: true
   posts:
     title: Posts
     output: true
