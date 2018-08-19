@@ -1,0 +1,24 @@
+---
+title: HKIS Dragons
+timezone: UTC
+collections:
+  collectionone:
+    title: CollectionOne
+    output: true
+  collectiontwo:
+    title: CollectionTwo
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+sass:
+  style: compressed
+exclude:
+- README.md
+- Gemfile.lock
+- Gemfile
+- LICENSE.txt
+- hkisdragons.gemspec
