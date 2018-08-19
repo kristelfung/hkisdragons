@@ -1,10 +1,21 @@
+---
 title: HKIS Dragons
-
-sass: 
-  style: compressed
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'hkisdragons.gemspec']
-
+timezone: UTC
 collections:
   one:
+    title: One
     output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+sass:
+  style: compressed
+exclude:
+- README.md
+- Gemfile.lock
+- Gemfile
+- LICENSE.txt
+- hkisdragons.gemspec
