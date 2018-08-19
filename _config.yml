@@ -1,0 +1,10 @@
+title: HKIS Dragons
+
+sass: 
+  style: compressed
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE.txt', 'hkisdragons.gemspec']
+
+collections:
+  one:
+    output: true
