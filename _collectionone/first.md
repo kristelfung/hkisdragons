@@ -1,5 +1,5 @@
 ---
-title: One
+title: index
 layout: page
 ---
 
