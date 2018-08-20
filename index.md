@@ -1,5 +1,7 @@
 ---
 layout: home
+button: view page
 ---
 
-# home page
+# China Cup Basketball
+October 21-23
