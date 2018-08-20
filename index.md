@@ -3,5 +3,5 @@ layout: home
 button: view page
 ---
 
-# China Cup Basketball
-October 21-23
+# China Cup Rugby
+##### October 21-23

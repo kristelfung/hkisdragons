@@ -1,3 +1,12 @@
+body {
+    font-family: 'Roboto Condensed'; /* make sure to import in future */
+
+    p {
+        font-family: 'Open Sans';
+    }
+}
+
 .button {
     padding: 20px;
+    font-weight: 500;
 }

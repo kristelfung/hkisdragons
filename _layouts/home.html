@@ -17,6 +17,18 @@ layout: default
         </div>
     </div>
 </section>
+<div class="info-bar">
+    <div class="container">
+        <div class="columns">
+            <div class="column">
+                <p>Rugby, Basketball and Soccer</p>
+            </div>
+            <div class="column date">
+                <p>2018-2019</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 {% for post in site.posts %}
     {{ post.title }}
@@ -26,8 +38,3 @@ layout: default
 {% assign name = collection.title %}
 <h3>{{ name }}</h3>
 {% endfor %}
-
-<div class="buttons">
-    <a class="button is-primary">Primary</a>
-    <a class="button is-link">Link</a>
-</div>
