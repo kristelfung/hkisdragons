@@ -1,7 +1,8 @@
 ---
-layout: home
+title: index
 button: view page
+layout: home
 ---
 
-# China Cup Rugby
+# China Cup hello
 ##### October 21-23
