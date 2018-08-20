@@ -1,7 +1,7 @@
 ---
 title: August 29, 2018
 date: 2018-08-19 12:51:00 Z
-hidden: true
+published: false
 ---
 
 some data blah blah

@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-<section class="hero">
+<section class="hero hero--home">
     <div class="hero-body">
         <div class="container">
             <div class="featured content">
@@ -40,6 +39,11 @@ layout: default
     <p>{{ post.title }}</p>
 {% endfor %}
 </div>
+<p>
+{{ site.pages | jsonify }}
+</p>
+
+
 
 {% comment %} {% for collection in site.collections %}
 {% assign name = collection.title %}
