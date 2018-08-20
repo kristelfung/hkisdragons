@@ -4,5 +4,5 @@ button: view page
 layout: home
 ---
 
-# China Cup hello
+# China Cup Rugby
 ##### October 21-23
