@@ -1,0 +1,33 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: jekyll-pages
+  label: Pages
+  create: all
+- type: directory
+  path: _uploads
+  label: Uploads
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: _china-cup-volleyball
+  label: China cup volleyball
+  create: all
+  match: "**/*"
+- type: directory
+  path: _apac-basketball
+  label: Apac basketball
+  create: all
+  match: "**/*"
+upload_dir: uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
