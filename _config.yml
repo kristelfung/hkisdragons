@@ -22,3 +22,4 @@ exclude:
 - Gemfile
 - LICENSE.txt
 - hkisdragons.gemspec
+permalink: "/:title/"

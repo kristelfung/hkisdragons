@@ -2,8 +2,12 @@
 layout: default
 ---
 
-{% for post in site.one %}
+{{ content }}
+{% for post in site.posts %}
     {{ post.title }}
 {% endfor %}
 
-{{ content }}
+{% for collection in site.collections %}
+{% assign name = collection.title %}
+<h3>{{ name }}</h3>
+{% endfor %}
