@@ -17,22 +17,29 @@ layout: default
         </div>
     </div>
 </section>
+
 <div class="info-bar">
     <div class="container">
-        <div class="columns">
-            <div class="column">
-                <p>Rugby, Basketball and Soccer</p>
+        <div class="level">
+            <div class="level-left">
+                <div class="level-item">
+                    <p>Rugby, Basketball and Soccer</p>
+                </div>
             </div>
-            <div class="column date">
-                <p>2018-2019</p>
+            <div class="level-right">
+                <div class="level-item">
+                    <p>2018-2019</p>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
+<div class="container">
 {% for post in site.posts %}
-    {{ post.title }}
+    <p>{{ post.title }}</p>
 {% endfor %}
+</div>
 
 {% for collection in site.collections %}
 {% assign name = collection.title %}
