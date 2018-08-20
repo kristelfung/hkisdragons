@@ -8,7 +8,7 @@ layout: default
             <div class="featured content">
                 <div><!-- vertical align flexbox -->
                     {{ content }}
-                    <a class="button is-primary">{{ page.button }}
+                    <a class="button is-primary" href="{{ page.link | relative_url }}">{{ page.button }}
                         <span class="mdi mdi-chevron-double-right">
                         </span>
                     </a>
@@ -23,12 +23,12 @@ layout: default
         <div class="level">
             <div class="level-left">
                 <div class="level-item">
-                    <p>Rugby, Basketball and Soccer</p>
+                    <p>{{ page.sports }}</p>
                 </div>
             </div>
             <div class="level-right">
                 <div class="level-item">
-                    <p>2018-2019</p>
+                    <p>{{ page.year }}</p>
                 </div>
             </div>
         </div>
