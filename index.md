@@ -1,5 +1,5 @@
 ---
-title: index
+title: Home
 button: view page
 layout: home
 ---
