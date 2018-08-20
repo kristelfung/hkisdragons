@@ -41,7 +41,7 @@ layout: default
 {% endfor %}
 </div>
 
-{% for collection in site.collections %}
+{% comment %} {% for collection in site.collections %}
 {% assign name = collection.title %}
 <h3>{{ name }}</h3>
-{% endfor %}
+{% endfor %} {% endcomment %}

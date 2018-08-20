@@ -6,8 +6,7 @@
             </a>
         </div>
         <div class="navbar-end">
-        {% assign mypages = site.pages | sort: "order" %}
-        {% for item in mypages %}
+        {% for item in site.pages %}
             {% if item.title %}
                 <a class="navbar-item">
                     {{ item.title }}
