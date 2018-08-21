@@ -1,7 +1,6 @@
 ---
 title: HKIS Dragons
 timezone: UTC
-future: true
 collections:
   posts:
     title: Posts
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+future: true
 sass:
   style: compressed
 exclude:
