@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto Condensed'; /* make sure to import in future */
+
+    p {
+        font-family: 'Open Sans';
+    }
+}
+
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.button {
+    padding: 20px;
+    font-weight: 500;
+}
+
+.title, .subtitle {
+    text-transform: uppercase;
+}

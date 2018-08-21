@@ -2,12 +2,52 @@
 layout: default
 ---
 
-{{ content }}
-{% for post in site.posts %}
-    {{ post.title }}
-{% endfor %}
+<section class="hero hero--home" style="background-image: url( {{ page.image | relative_url }} )">
+    <div class="container">
+        <div class="hero-body">
+            <div class="featured content">
+                {{ content }}
+                <a class="button is-primary" href="{{ page.link | relative_url }}">{{ page.button }}
+                    <span class="mdi mdi-chevron-double-right">
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
 
-{% for collection in site.collections %}
-{% assign name = collection.title %}
-<h3>{{ name }}</h3>
-{% endfor %}
+<div class="info-bar">
+    <div class="container">
+        <div class="level">
+            <div class="level-left">
+                <div class="level-item">
+                    <p>{{ page.sports }}</p>
+                </div>
+            </div>
+            <div class="level-right">
+                <div class="level-item">
+                    <p>{{ page.year }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container cross-section">
+    <h1 class="title">Cross Section News</h1>
+    {% for post in site.posts %}
+        <div class="post">
+            <h2 class="title">{{ post.title }}</h2>
+            <div class="columns">
+                <div class="column is-one-third">
+                    {% for image in post.images %}
+                        <img src="{{ image | relative_url }}" />
+                    {% endfor %}
+                </div>
+                <div class="column">
+                    {{ post.content }}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>

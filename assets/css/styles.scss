@@ -2,4 +2,14 @@
 ---
 
 @import '../_sass/base/variables';
+
+@import "../_sass/bulma-0.7.1/bulma.sass";
+
 @import '../_sass/base/base';
+
+@import '../_sass/partials/navbar';
+@import '../_sass/partials/hero';
+@import '../_sass/partials/header';
+@import '../_sass/partials/footer';
+@import '../_sass/partials/feed';
+@import '../_sass/partials/sport';

@@ -1,0 +1,17 @@
+.navbar {
+    height: 80px;
+    text-transform: uppercase;
+
+    .navbar__logo {
+        max-height: 60px;
+    }
+
+    .navbar-item {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .has-dropdown {
+        padding: 0;
+    }
+}

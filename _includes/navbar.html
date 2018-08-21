@@ -1,0 +1,33 @@
+<nav class="navbar is-white" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="/">
+                <img src={{ "/images/logo.png" | relative_url }} class="navbar__logo"/>
+            </a>
+        </div>
+        <div class="navbar-end">
+        {% assign mypages = site.pages | sort: "order" %}
+        {% for item in mypages %}
+            {% if item.layout != "sport" and item.title %}
+                <a class="navbar-item" href="{{ item.url | relative_url }}">
+                    {{ item.title }}
+                </a>
+            {% endif %}
+        {% endfor %}
+        <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+                Tournaments
+            </a>
+            <div class="navbar-dropdown is-boxed">
+            {% for item in site.pages %}
+                {% if item.layout == "sport" %}
+                    <a class="navbar-item" href="{{ item.url | relative_url }}">
+                        {{ item.title }}
+                    </a>
+                {% endif %}
+            {% endfor %} 
+            </div>
+        </div>
+        </div>
+    </div>
+</nav>
