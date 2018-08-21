@@ -6,7 +6,16 @@ body {
     }
 }
 
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 .button {
     padding: 20px;
     font-weight: 500;
+}
+
+.title {
+    text-transform: uppercase;
 }

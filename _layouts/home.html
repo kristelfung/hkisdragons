@@ -34,3 +34,20 @@ layout: default
         </div>
     </div>
 </div>
+
+<div class="container cross-section">
+    <h1 class="title">Cross Section News</h1>
+    {% for post in site.posts %}
+        <div class="post">
+            <h2 class="title">{{ post.title }}</h2>
+            <div class="columns">
+                <div class="column is-one-third">
+                    {{ post.image }}
+                </div>
+                <div class="column">
+                    {{ post.content }}
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+</div>

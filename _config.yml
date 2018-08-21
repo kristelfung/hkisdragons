@@ -1,6 +1,7 @@
 ---
 title: HKIS Dragons
 timezone: UTC
+future: true
 collections:
   posts:
     title: Posts
