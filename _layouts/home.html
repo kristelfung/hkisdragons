@@ -42,7 +42,9 @@ layout: default
             <h2 class="title">{{ post.title }}</h2>
             <div class="columns">
                 <div class="column is-one-third">
-                    {{ post.image }}
+                    {% for image in post.images %}
+                        <img src="{{ image | relative_url }}" />
+                    {% endfor %}
                 </div>
                 <div class="column">
                     {{ post.content }}
