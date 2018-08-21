@@ -6,13 +6,27 @@
             </a>
         </div>
         <div class="navbar-end">
-        {% for item in site.pages %}
+        {% assign mypages = site.pages | sort: "order" %}
+        {% for item in mypages %}
             {% if item.title %}
                 <a class="navbar-item" href="{{ item.url | relative_url }}">
                     {{ item.title }}
                 </a>
             {% endif %}
         {% endfor %}
+        <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" href="/documentation/overview/start/">
+                Tournaments
+            </a>
+            <div class="navbar-dropdown is-boxed">
+            <a class="navbar-item" href="/documentation/overview/start/">
+                Overview
+            </a>
+            <a class="navbar-item" href="https://bulma.io/documentation/modifiers/syntax/">
+                Modifiers
+            </a>
+            </div>
+        </div>
         </div>
     </div>
 </nav>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="hero hero--home">
+<section class="hero hero--home" style="background-image: url( {{ page.image | relative_url }} )">
     <div class="hero-body">
         <div class="container">
             <div class="featured content">
@@ -35,18 +35,8 @@ layout: default
     </div>
 </div>
 
-<div class="container">
-{% for post in site.posts %}
-    <p>{{ post.title }}</p>
-{% endfor %}
-</div>
-<p>
-{{ site.pages | jsonify }}
-</p>
 
-
-
-{% comment %} {% for collection in site.collections %}
+{% for collection in site.collections %}
 {% assign name = collection.title %}
 <h3>{{ name }}</h3>
-{% endfor %} {% endcomment %}
+{% endfor %} 
