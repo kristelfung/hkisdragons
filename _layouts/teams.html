@@ -1,0 +1,16 @@
+---
+layout: page
+---
+{% assign myteams = page.teams %}
+{% assign rows = myteams.size | divided_by: 2.0 | ceil %}
+{% for i in (1..rows) %}
+{% assign offset = forloop.index0 | times: 2 %}
+    <div class="columns columns--teams">
+        {% for team in myteams limit:2 offset:offset %}
+        <div class="column">
+            <h1 class="title text-center is-4">{{ team.name }}</h1>
+            <img src="{{ team.image | relative_url }}">
+        </div>
+        {% endfor %}
+    </div>
+{% endfor %}

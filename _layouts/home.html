@@ -33,11 +33,11 @@ layout: default
     </div>
 </div>
 
-<div class="container cross-section">
+<div class="container container--body">
     <h1 class="title">Cross Section News</h1>
     {% for post in site.posts %}
         <div class="post">
-            <h2 class="title">{{ post.title }}</h2>
+            <h2 class="title is-4">{{ post.title }}</h2>
             <div class="columns">
                 <div class="column is-one-third">
                     {% for image in post.images %}
