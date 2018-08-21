@@ -8,7 +8,7 @@
         <div class="navbar-end">
         {% assign mypages = site.pages | sort: "order" %}
         {% for item in mypages %}
-            {% if item.title %}
+            {% if item.layout != "sport" %}
                 <a class="navbar-item" href="{{ item.url | relative_url }}">
                     {{ item.title }}
                 </a>
@@ -19,12 +19,13 @@
                 Tournaments
             </a>
             <div class="navbar-dropdown is-boxed">
-            <a class="navbar-item" href="/documentation/overview/start/">
-                Overview
-            </a>
-            <a class="navbar-item" href="https://bulma.io/documentation/modifiers/syntax/">
-                Modifiers
-            </a>
+            {% for item in site.pages %}
+                {% if item.layout == "sport" %}
+                    <a class="navbar-item" href="{{ item.url | relative_url }}">
+                        {{ item.title }}
+                    </a>
+                {% endif %}
+            {% endfor %} 
             </div>
         </div>
         </div>

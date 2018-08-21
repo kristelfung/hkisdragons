@@ -2,12 +2,6 @@
 title: HKIS Dragons
 timezone: UTC
 collections:
-  apac-basketball:
-    title: APAC Basketball
-    output: true
-  china-cup-rugby:
-    title: China Cup Rugby
-    output: true
   posts:
     title: Posts
     output: true
