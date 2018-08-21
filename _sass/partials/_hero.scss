@@ -2,21 +2,30 @@
     background-size: cover;
     background-position: center center;
     text-transform: uppercase;
+
+    .hero-body {
+        padding-left: 0px;
+        padding-right: 0px;
+        display: flex;
+        align-items: center;
+    }
 }
 
 .featured {
     max-width: 400px;
-    height: 300px;
+    padding: 70px 50px;
     background-color: $white;
     opacity: 0.95;
-    padding-left: 50px;
-    padding-right: 50px;
     margin: 30px 0px;
-    display: flex;
-    align-items: center;
 
     .button {
         margin-top: 10px;
+    }
+}
+
+@media (min-width: 500px) {
+    .featured {
+        width: 400px;
     }
 }
 

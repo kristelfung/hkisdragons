@@ -1,0 +1,22 @@
+.hero--sport {
+    text-align: center;
+    background-size: cover;
+    background-position: center center;
+
+    .hero-body {
+        display: flex;
+        align-items: center;
+    }
+}
+
+.featured--sport { /* from home */
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: $black;
+    opacity: 0.9;
+    margin: 0 auto;
+
+    .title, .subtitle {
+        color: $white;
+    }
+}
