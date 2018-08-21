@@ -7,11 +7,14 @@ layout: page
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 2 %}
     <div class="columns columns--teams">
+        {% for season in page.teams.season %}
+        <h1></h1>
         {% for team in myteams limit:2 offset:offset %}
         <div class="column">
             <h1 class="title text-center is-4">{{ team.name }}</h1>
             <img src="{{ team.image | relative_url }}">
         </div>
+        {% endfor %}
         {% endfor %}
     </div>
 {% endfor %}

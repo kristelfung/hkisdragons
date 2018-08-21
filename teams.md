@@ -1,6 +1,7 @@
 ---
 title: Teams
 order: 3
+layout: teams
 season_one:
 - name: Girls' Varsity Volleyball
   image: "/uploads/vball.jpg"
@@ -8,6 +9,5 @@ season_one:
   image: "/uploads/softball.jpg"
 - name: Boys' Varsity Volleyball
   image: "/uploads/vball.jpg"
-layout: teams
----
+
 
