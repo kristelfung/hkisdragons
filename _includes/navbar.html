@@ -21,14 +21,12 @@
             <div class="navbar-dropdown is-boxed">
             {% assign csize = site.teams | size %}
             {% if csize == 0 %}
-                <a class="navbar-item is-disabled" >No teams posted yet!</a>
+                <a class="navbar-item is-disabled" >No teams yet!</a>
             {% endif %}
             {% for item in site.teams %}
-                {% if item.layout == "teams" %}
-                    <a class="navbar-item" href="{{ item.url | relative_url }}">
-                        {{ item.title }}
-                    </a>
-                {% endif %}
+                <a class="navbar-item" href="{{ item.url | relative_url }}">
+                    {{ item.title }}
+                </a>
             {% endfor %} 
             </div>
         </div>
@@ -39,14 +37,12 @@
                 <div class="navbar-dropdown is-boxed">
                 {% assign csize = site.allapac | size %}
                 {% if csize == 0 %}
-                    <a class="navbar-item is-disabled" >No All-APAC posted yet!</a>
+                    <a class="navbar-item is-disabled" >No All-APAC yet!</a>
                 {% endif %}
                 {% for item in site.allapac %}
-                    {% if item.layout == "allapac" %}
-                        <a class="navbar-item" href="{{ item.url | relative_url }}">
-                            {{ item.title }}
-                        </a>
-                    {% endif %}
+                    <a class="navbar-item" href="{{ item.url | relative_url }}">
+                        {{ item.title }}
+                    </a>
                 {% endfor %} 
                 </div>
             </div>
@@ -55,12 +51,14 @@
                 Tournaments
             </a>
             <div class="navbar-dropdown is-boxed">
-            {% for item in site.pages %}
-                {% if item.layout == "sport" %}
-                    <a class="navbar-item" href="{{ item.url | relative_url }}">
-                        {{ item.title }}
-                    </a>
-                {% endif %}
+            {% assign csize = site.tournaments | size %}
+            {% if csize == 0 %}
+                <a class="navbar-item is-disabled" >No tournaments yet!</a>
+            {% endif %}
+            {% for item in site.tournaments %}
+                <a class="navbar-item" href="{{ item.url | relative_url }}">
+                    {{ item.title }}
+                </a>
             {% endfor %} 
             </div>
         </div>
