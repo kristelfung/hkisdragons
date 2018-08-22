@@ -6,6 +6,10 @@ body {
     }
 }
 
+a.is-disabled {
+    pointer-events: none;
+}
+
 .container {
     padding-left: 15px;
     padding-right: 15px;

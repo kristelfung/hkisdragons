@@ -2,6 +2,12 @@
     <div class="hero-body">
         <div class="container">
             <h1 class="title">
+                {% if page.layout == "teams" %}
+                    Teams - 
+                {% endif %}
+                {% if page.layout == "allapac" %}
+                    All APAC - 
+                {% endif %}
                 {{ page.title }}
             </h1>
         </div>

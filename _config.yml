@@ -8,6 +8,7 @@ collections:
   teams:
     title: Teams
     output: true
+    permalink: /:collection-:name
   uploads:
     title: Uploads
     output: true

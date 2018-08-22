@@ -16,6 +16,42 @@
         {% endfor %}
         <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link">
+                Teams
+            </a>
+            <div class="navbar-dropdown is-boxed">
+            {% assign csize = site.teams | size %}
+            {% if csize == 0 %}
+                <a class="navbar-item is-disabled" >No teams posted yet!</a>
+            {% endif %}
+            {% for item in site.teams %}
+                {% if item.layout == "teams" %}
+                    <a class="navbar-item" href="{{ item.url | relative_url }}">
+                        {{ item.title }}
+                    </a>
+                {% endif %}
+            {% endfor %} 
+            </div>
+        </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    All APAC
+                </a>
+                <div class="navbar-dropdown is-boxed">
+                {% assign csize = site.allapac | size %}
+                {% if csize == 0 %}
+                    <a class="navbar-item is-disabled" >No All-APAC posted yet!</a>
+                {% endif %}
+                {% for item in site.allapac %}
+                    {% if item.layout == "allapac" %}
+                        <a class="navbar-item" href="{{ item.url | relative_url }}">
+                            {{ item.title }}
+                        </a>
+                    {% endif %}
+                {% endfor %} 
+                </div>
+            </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
                 Tournaments
             </a>
             <div class="navbar-dropdown is-boxed">

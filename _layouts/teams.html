@@ -2,28 +2,16 @@
 layout: page
 ---
 
-{% assign myseasons = page.seasons %}
-{{myseasons.season_one | size }}
 
-{% for season in myseasons %}
-{{ season | jsonify }}
-{{ season | size }}
-{% for teams in season %}
-{{ teams | size }}
-<div class="season">
-    {% assign rows = season.size | divided_by: 2.0 | ceil %}
-    <h1 class="title">Season One {{ rows }}</h1>
-    {% for i in (1..rows) %}
-        {% assign offset = forloop.index0 | times: 2 %}
-            <div class="columns columns--teams">
-                {% for item in season limit:2 offset:offset %}
-                <div class="column">
-                    <h1 class="title text-center is-4">{{ item.name }}</h1>
-                    <img src="{{ item.image | relative_url }}">
-                </div>
-                {% endfor %}
+{% assign rows = page.teams.size | divided_by: 2.0 | ceil %}
+{% for i in (1..rows) %}
+    {% assign offset = forloop.index0 | times: 2 %}
+        <div class="columns columns--teams">
+            {% for team in page.teams limit:2 offset:offset %}
+            <div class="column">
+                <h1 class="title text-center is-4">{{ team.name }}</h1>
+                <img src="{{ team.image | relative_url }}">
             </div>
-    {% endfor %}
-</div>
-{% endfor %}
+            {% endfor %}
+        </div>
 {% endfor %}
