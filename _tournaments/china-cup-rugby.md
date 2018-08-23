@@ -8,5 +8,21 @@ streams:
 layout: sport
 ---
 
-### Round Robin
+# Friday (Boys Varsity)
+
+| HKIS | 5 - 2 | ISB |
+|------|-------|-----|
+|      |       |     |
+
+
+# Saturday (Boys Varsity)
+![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)
+
+# Saturday (Girls Varsity)
+![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)
+
+# Saturday (Boys JV)
+![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)
+
+# Saturday (Girls JV)
 ![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)

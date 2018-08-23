@@ -5,18 +5,18 @@ collections:
   allapac:
     title: All APAC
     output: true
-    permalink: "/:collection-:name"
+    permalink: "/:collection-:name/"
   posts:
     title: Posts
     output: true
   teams:
     title: Teams
     output: true
-    permalink: "/:collection-:name"
+    permalink: "/:collection-:name/"
   tournaments:
     title: Tournaments
     output: true
-    permalink: "/:name"
+    permalink: "/:name/"
   uploads:
     title: Uploads
     output: true
