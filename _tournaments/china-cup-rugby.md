@@ -9,4 +9,4 @@ layout: sport
 ---
 
 ### Round Robin
-![ccrugby-bracket.png](/uploads/ccrugby-bracket.png)
+![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)
