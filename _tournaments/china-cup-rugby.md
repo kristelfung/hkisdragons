@@ -11,5 +11,5 @@ layout: sport
 # Saturday (Boys)
 ![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)
 
-# Saturday (Boys)
+# Saturday (Girls)
 ![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)
