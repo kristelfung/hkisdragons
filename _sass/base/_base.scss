@@ -1,9 +1,16 @@
 body {
     font-family: 'Roboto Condensed'; /* make sure to import in future */
+    opacity: 1;
+    transition: 0.4s opacity;
 
     p {
         font-family: 'Open Sans';
     }
+}
+
+body.fade {
+    opacity: 0;
+    transition: none;
 }
 
 a.is-disabled {

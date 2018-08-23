@@ -6,9 +6,17 @@ layout: compress
 <html lang="en">
     {%- include head.html -%}
     <body>
+        <script>
+            document.body.className = 'fade';
+        </script>
         {%- include navbar.html -%}
         {{ content }}
         {%- include footer.html -%}
+        <script>
+            window.addEventListener("load", function(e) {
+                document.body.className = '';
+            });
+        </script>
     </body>
 </html>
 
