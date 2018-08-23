@@ -2,9 +2,21 @@
 title: HKIS Dragons
 timezone: UTC
 collections:
+  allapac:
+    title: All APAC
+    output: true
+    permalink: "/:collection-:name/"
   posts:
     title: Posts
     output: true
+  teams:
+    title: Teams
+    output: true
+    permalink: "/:collection-:name/"
+  tournaments:
+    title: Tournaments
+    output: true
+    permalink: "/:name/"
   uploads:
     title: Uploads
     output: true

@@ -3,3 +3,19 @@ layout: default
 ---
 
 {%- include sporthead.html -%}
+
+<div class="container container--body">
+    <h3 class="title is-3 text-center">Livestream</h3>
+    <div class="columns is-multiline is-centered">
+        {% for stream in page.streams %}
+        <div class="column is-half">
+            <div class="video-responsive">
+                <iframe width="420" height="315" src="{{ stream }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="content scores">
+        {{ content }}
+    </div>
+</div>

@@ -20,3 +20,30 @@
         color: $white;
     }
 }
+
+.video-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.video-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.scores { /* div containing scores */
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.content {
+    table td, table th {
+        text-align: center;
+    }  
+}

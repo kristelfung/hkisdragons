@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<div class="columns is-centered is-multiline columns--teams">
+    {% for team in page.players %}
+        <div class="column is-one-quarter">
+            <h5 class="title text-center is-5">{{ team.name }}</h5>
+            <img src="{{ team.image | relative_url }}">
+        </div>
+    {% endfor %}
+</div>

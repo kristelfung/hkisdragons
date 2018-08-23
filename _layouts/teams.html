@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<div class="columns is-multiline is-centered columns--teams">
+    {% for team in page.teams %}
+        <div class="column is-half">
+            <h1 class="title text-center is-4">{{ team.name }}</h1>
+            <img src="{{ team.image | relative_url }}">
+        </div>
+    {% endfor %}
+</div>

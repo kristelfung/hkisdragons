@@ -6,9 +6,22 @@ body {
     }
 }
 
+a.is-disabled {
+    pointer-events: none;
+}
+
 .container {
     padding-left: 15px;
     padding-right: 15px;
+}
+
+.container--body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text-center {
+    text-align: center;
 }
 
 .button {
@@ -18,4 +31,17 @@ body {
 
 .title, .subtitle {
     text-transform: uppercase;
+}
+
+.content { /* for images in markdown */
+    img {
+        max-width: 700px;
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        text-transform: uppercase;
+    }
 }
