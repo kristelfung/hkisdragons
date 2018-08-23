@@ -1,16 +1,11 @@
 ---
 layout: page
 ---
-
-{% assign rows = page.teams.size | divided_by: 2.0 | ceil %}
-{% for i in (1..rows) %}
-    {% assign offset = forloop.index0 | times: 2 %}
-        <div class="columns columns--teams">
-            {% for team in page.teams limit:2 offset:offset %}
-            <div class="column">
-                <h1 class="title text-center is-4">{{ team.name }}</h1>
-                <img src="{{ team.image | relative_url }}">
-            </div>
-            {% endfor %}
+<div class="columns is-multiline is-centered columns--teams">
+    {% for team in page.teams %}
+        <div class="column is-half">
+            <h1 class="title text-center is-4">{{ team.name }}</h1>
+            <img src="{{ team.image | relative_url }}">
         </div>
-{% endfor %}
+    {% endfor %}
+</div>
