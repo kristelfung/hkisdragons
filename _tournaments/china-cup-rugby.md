@@ -8,5 +8,5 @@ streams:
 layout: sport
 ---
 
-# Saturday (Girls)
+# Saturday (Boys)
 ![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)
