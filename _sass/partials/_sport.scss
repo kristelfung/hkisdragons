@@ -36,8 +36,14 @@
     position:absolute;
 }
 
-.scores {
+.scores { /* div containing scores */
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+.content {
+    table td, table th {
+        text-align: center;
+    }  
 }
