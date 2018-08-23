@@ -16,3 +16,4 @@ players:
 - name: Arthur Chau
   image: "/uploads/arthur.jpg"
 ---
+
