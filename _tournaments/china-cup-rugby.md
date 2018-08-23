@@ -8,5 +8,5 @@ streams:
 layout: sport
 ---
 
-# Round Robin (Girls)
+# Saturday (Girls)
 ![cc-rugby-bracket.png](/uploads/cc-rugby-bracket.png)
