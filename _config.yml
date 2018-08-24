@@ -1,6 +1,5 @@
 ---
 title: HKIS Dragons
-facebook: https://www.facebook.com/hkisdragons/
 timezone: UTC
 collections:
   allapac:
@@ -21,6 +20,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+facebook: https://www.facebook.com/hkisdragons/
 future: true
 sass:
   style: compressed
