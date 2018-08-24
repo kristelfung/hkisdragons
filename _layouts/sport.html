@@ -5,6 +5,7 @@ layout: default
 {%- include sporthead.html -%}
 
 <div class="container container--body">
+    {% if streams %}
     <h3 class="title is-3 text-center">Livestream</h3>
     <div class="columns is-multiline is-centered">
         {% for stream in page.streams %}
@@ -15,6 +16,7 @@ layout: default
         </div>
         {% endfor %}
     </div>
+    {% endif %}
     <div class="content scores">
         {{ content }}
     </div>
