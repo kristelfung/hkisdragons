@@ -6,9 +6,9 @@ collections:
     title: All APAC
     output: true
     permalink: "/:collection-:name/"
-  posts:
-    title: Posts
-    output: true
+  entries:
+    title: Entries
+    output: false
   teams:
     title: Teams
     output: true
