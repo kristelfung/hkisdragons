@@ -9,6 +9,9 @@ collections:
   entries:
     title: Entries
     output: false
+  posts:
+    title: Posts
+    output: true
   teams:
     title: Teams
     output: true
