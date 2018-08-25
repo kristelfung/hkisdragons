@@ -1,6 +1,15 @@
 <footer class="footer">
     <div class="container">
-        <h5>Created by Kristel Fung (Class of 2018). Maintained by the Athletic Council.</h5>
+        <div class="columns is-mobile">
+            <div class="column is-two-thirds">
+                <h5>Created by Kristel Fung (Class of 2018). Maintained by the Athletic Council.</h5>
+            </div>
+            <div class="column column--fb">
+                <a href="{{ site.facebook }}">
+                    <img src="{{ "/images/fb.png" | relative_url }}" />
+                </a>
+            </div>
+        </div>
     </div>
 </footer>
 <script src={{ "/assets/js/nav.js" | relative_url }}></script>
