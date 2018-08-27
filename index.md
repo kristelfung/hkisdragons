@@ -2,7 +2,7 @@
 title: Home
 button: view page
 year: 2018-2019
-sports: rugby, basketball and soccer
+sports: rugby, forensics, and badminton
 link: china-cup-rugby
 order: 1
 image: "/uploads/rugby-background.jpg"
