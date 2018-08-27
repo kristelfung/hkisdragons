@@ -10,4 +10,4 @@ layout: home
 ---
 
 # China Cup Rugby
-##### October 21-23
+##### September 14-16

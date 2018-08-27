@@ -6,6 +6,9 @@ collections:
     title: All APAC
     output: true
     permalink: "/:collection-:name/"
+  entries:
+    title: Entries
+    output: false
   posts:
     title: Posts
     output: true
