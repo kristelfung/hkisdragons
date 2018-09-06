@@ -5,5 +5,6 @@ Date: 2018-10-18 08:30:00 Z
 streams:
 - start line
 - finish line
+layout: sport
 ---
 
