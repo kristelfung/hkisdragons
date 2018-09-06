@@ -5,6 +5,7 @@ Date: 2022-11-01 00:00:00 Z
 Streaming:
 - Link 1
 - Link 2
+layout: sportpage
 ---
 
 November 1, 
