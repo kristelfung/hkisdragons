@@ -5,5 +5,4 @@ order: 2
 layout: page
 ---
 
-![schedp1.jpg](/uploads/schedp1.jpg)
-![schedp2.jpg](/uploads/schedp2.jpg)
+![Screen Shot 2018-09-06 at 11.43.47 AM-f51b11.png](/uploads/Screen%20Shot%202018-09-06%20at%2011.43.47%20AM-f51b11.png)
