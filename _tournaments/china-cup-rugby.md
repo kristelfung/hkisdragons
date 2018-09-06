@@ -1,5 +1,5 @@
 ---
-title: China Cup Rugby
+title: 'Example: Rugby'
 duration: October 21-23
 image: "/uploads/rugby-background.jpg"
 streams:
