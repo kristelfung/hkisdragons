@@ -1,5 +1,5 @@
 ---
-title: September 10, 2018
+title: Example
 date: 2018-09-10 12:51:00 Z
 images:
 - "/uploads/vball.jpg"
