@@ -1,8 +1,0 @@
----
-title: August 19, 2018
-date: 2018-08-19 12:51:00 Z
-images:
-- "/uploads/softball.jpg"
----
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut vulputate velit, eget pulvinar sapien. Integer quis dui vel massa suscipit bibendum. Nam pulvinar, neque in volutpat rhoncus, tortor ligula eleifend purus, non commodo lorem ante scelerisque ante. Nullam finibus purus ut arcu varius viverra. Ut varius sapien sit amet rutrum sollicitudin. Vivamus sit amet turpis in risus finibus porta. In vulputate urna nunc, ut dictum risus aliquam nec. In suscipit ac lacus vel euismod. Aliquam tempor justo at consequat porta. Pellentesque maximus ante sit amet convallis bibendum. Morbi dapibus lorem ut dolor posuere eleifend. Duis pellentesque ornare lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque accumsan fermentum venenatis.
