@@ -1,6 +1,9 @@
 ---
 title: September 11, 2018
 date: 2018-09-11 09:01:00 Z
+images:
+- "/uploads/unnamed-66fa99.jpg"
+- "/uploads/unnamed-1-136f9d.jpg"
 ---
 
 ![unnamed.jpg](/uploads/unnamed.jpg)
