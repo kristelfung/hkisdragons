@@ -10,7 +10,7 @@ score board: <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIt9X
 layout: sport
 ---
 
-**SCHEDULE:**
+## SCHEDULE
 
 ![Screen Shot 2018-09-11 at 5.20.40 PM.png](/uploads/Screen%20Shot%202018-09-11%20at%205.20.40%20PM.png)
 
