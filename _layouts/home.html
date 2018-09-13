@@ -35,13 +35,13 @@ layout: default
     <h1 class="title">Cross Section News</h1>
     {% assign sorted = (site.entries | sort: 'date') | reverse %}
     {% for entry in sorted %}
-        <div class="post">
+        <div class="post content">
             <h2 class="title is-4">{{ entry.title }}</h2>
             <div class="columns">
                 {% if entry.images %}
-                <div class="column is-one-third">
+                <div class="column is-one-quarter">
                     {% for image in entry.images %}
-                        <img src="{{ image | relative_url }}" />
+                        <img src="{{ image | relative_url }}" class="cross-section-img" />
                     {% endfor %}
                 </div>
                 {% endif %}
