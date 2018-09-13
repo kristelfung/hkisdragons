@@ -2,11 +2,8 @@
 title: China Cup Rugby
 date: 2018-09-11 09:15:00 Z
 duration: September 14 - 16
-images:
-- "/uploads/Screen%20Shot%202018-09-11%20at%205.30.20%20PM.png"
-- "/uploads/Screen%20Shot%202018-09-11%20at%205.29.35%20PM.png"
-- "/uploads/Screen%20Shot%202018-09-11%20at%205.28.50%20PM.png"
-score board: <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIt9XIK9idh0ehhWzKIQA0_pDVYqJntIk6oA4O41g1TjqpP7NB9AdNNbObjXSDDyFKTJl_lYhH6mZc/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+image: 
+scoreboard: <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIt9XIK9idh0ehhWzKIQA0_pDVYqJntIk6oA4O41g1TjqpP7NB9AdNNbObjXSDDyFKTJl_lYhH6mZc/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 layout: sport
 ---
 
