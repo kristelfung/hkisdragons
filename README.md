@@ -6,6 +6,10 @@ This is the sports site for HKIS. Built with [Jekyll](https://jekyllrb.com/), [B
 
 Clone this repository or download the code. The site uses Ruby 2.4.3, so you will have to install that with a Ruby version manager.
 
+You will have to install [Jekyll](https://jekyllrb.com/) with the following (instructions are also on their site):
+
+    $ gem install bundler jekyll
+
 With Terminal, navigate to the directory. To install gems, run:
 
     $ bundle install
