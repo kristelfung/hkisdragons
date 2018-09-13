@@ -1,7 +1,7 @@
 ---
 title: 'Example: Rugby'
 duration: October 21-23
-cover photo image: "/uploads/rugby-background.jpg"
+image: "/uploads/rugby-background.jpg"
 streams:
 - https://www.youtube.com/embed/IVBKIXAH06Q
 - https://www.youtube.com/embed/IVBKIXAH06Q
