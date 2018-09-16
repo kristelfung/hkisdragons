@@ -6,7 +6,7 @@ sports: rugby, baseball, cross country, badminton, forensics, basketball, softba
   soccer
 link: varsity-baseball-invitational
 order: 1
-image: "/uploads/baseball-59fbb4.jpg"
+image: "/uploads/baseball-field.jpg"
 layout: home
 ---
 
