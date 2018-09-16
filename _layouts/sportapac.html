@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{%- include sporthead.html -%}
+<div class="container container--body">
+    <nav class="tabs is-toggle is-fullwidth is-medium">
+        <ul>
+            <li class="tab is-active" onclick="openTab(event,'welcome')"><a >Welcome</a></li>
+            <li class="tab" onclick="openTab(event,'roster')"><a>Roster</a></li>
+            <li class="tab" onclick="openTab(event,'scores')"><a>Scores</a></li>
+            <li class="tab" onclick="openTab(event,'livestream')"><a>Livestream</a></li>
+        </ul>
+    </nav>
+    <div id="welcome" class="content-tab" >
+        <p>welcome</p>
+    </div>
+    <div id="roster" class="content-tab" style="display:none">
+        <p>roster</p>
+    </div>
+    <div id="scores" class="content-tab" style="display:none">
+        <p>scores</p>
+    </div>
+    <div id="livestream" class="content-tab" style="display:none">
+        <p>livestream</p>
+    </div>
+</div>
+<script src={{ "/assets/js/tabs.js" | relative_url }}></script>

@@ -1,7 +1,21 @@
-.post {
+.post.content {
     padding: 20px 0px;
 
     .title {
         font-weight: 400;
+        text-transform: uppercase;
     }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 400;
+        text-transform: none;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+}
+
+.cross-section-img {
+    width: 100%;
 }
