@@ -3,11 +3,11 @@ title: Home
 button: view page
 year: 2018-2019
 sports: rugby, forensics, and badminton
-link: china-cup-rugby
+link: varsity-baseball-invitational
 order: 1
-image: "/uploads/rugby-background.jpg"
+image: "/uploads/baseball-59fbb4.jpg"
 layout: home
 ---
 
-# China Cup Rugby
-##### September 14-16
+# Varsity Baseball Invitational
+##### September 28-29
