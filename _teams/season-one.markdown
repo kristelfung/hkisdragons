@@ -13,8 +13,3 @@ teams:
 layout: teams
 ---
 
-SEPT 14-16
-•	RUGBY AT HKIS
-•	VOLLEYBALL AT PUXI
-•	BASEBALL/TENNIS AT ISB
-
