@@ -10,7 +10,7 @@ layout: sport
 
 | Time | Home | Score | Away |
 |------|------|-------|-----|
-| 6:00 | HKIS | 5 - 2 | ISB |
+| 6:00 | HKIS |       | TYPHOONS |
 
 # Saturday 
 | Time |  Home  | Score |  Away  |
