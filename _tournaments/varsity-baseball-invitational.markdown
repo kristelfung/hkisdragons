@@ -12,7 +12,8 @@ layout: sport
 |------|------|-------|-----|
 | 6:00 | HKIS |       | TYPHOONS |
 
-# Saturday 
+# Saturday
+
 | Time |  Home  | Score |  Away  |
 |------|--------|-------|--------|
 | 8:30 | HKBA   |       |  HKIS  |
