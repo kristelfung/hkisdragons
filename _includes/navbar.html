@@ -43,7 +43,7 @@
                     <div class="navbar-dropdown is-boxed">
                     {% assign csize = site.allapac | size %}
                     {% if csize == 0 %}
-                        <a class="navbar-item is-disabled" >No All-APAC yet!</a>
+                        <a class="navbar-item is-disabled" >No All APAC yet!</a>
                     {% endif %}
                     {% for item in site.allapac %}
                         <a class="navbar-item" href="{{ item.url | relative_url }}">
