@@ -21,6 +21,12 @@
     }
 }
 
+@media (max-width: 500px) {
+    .featured--sport { // for mobile
+        padding: 0px;
+    }
+}
+
 .video-wrap {
     max-width: 700px;
     margin: 0 auto;
