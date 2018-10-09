@@ -3,6 +3,7 @@ title: APAC Cross Country
 date: 2018-10-09 04:31:00 Z
 duration: October 17 - 21
 image: "/uploads/IMG_6390.jpg"
+layout: sport
 ---
 
 **Schedule:**
