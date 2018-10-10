@@ -4,6 +4,8 @@ date: 2018-10-10 12:23:00 Z
 image: "/uploads/IMG_9149-a67e5c.jpg"
 ---
 
+![unnamed 8.24.11 PM.jpg](/uploads/unnamed%208.24.11%20PM.jpg)
+
 **HS TEAMS IN ACTION THIS WEEK!**
 
 Many Dragon Sports Teams are in action this week on campus. Wednesday Oct 10, varsity girls volleyball host ICS and CDNIS at 4 and 5 pm. Thursday Oct 11, Boys Rugby plays Harrow at 4:45 p.m. on the field while the JV boys volleyball team hosts ISF at 3:30 p.m. Come join us on the field and court, and support your Dragon Athletes.
