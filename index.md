@@ -11,4 +11,4 @@ layout: home
 
 # APAC Cross Country
 
-##### October 17 - 21
+##### October 17 - 19
