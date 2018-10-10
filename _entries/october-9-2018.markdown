@@ -1,10 +1,8 @@
 ---
 title: October 9, 2018
 date: 2018-10-10 12:23:00 Z
-image: "/uploads/IMG_9149-a67e5c.jpg"
+image: "/uploads/unnamed%208.24.11%20PM-8c304f.jpg"
 ---
-
-![unnamed 8.24.11 PM.jpg](/uploads/unnamed%208.24.11%20PM.jpg)
 
 **HS TEAMS IN ACTION THIS WEEK!**
 
