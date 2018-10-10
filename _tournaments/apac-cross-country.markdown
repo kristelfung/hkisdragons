@@ -29,6 +29,8 @@ teams:
 layout: sportapac
 ---
 
+![Screen Shot 2018-10-10 at 8.18.08 PM.png](/uploads/Screen%20Shot%202018-10-10%20at%208.18.08%20PM.png)
+
 # Friday
 
 | Time | Home | Score | Away |
