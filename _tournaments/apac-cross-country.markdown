@@ -1,7 +1,7 @@
 ---
 title: APAC Cross Country
 date: 2018-09-16 20:58:00 Z
-duration: October 17 - 21
+duration: October 17 - 19
 image: "/uploads/IMG_6442.jpg"
 welcome: Welcome message here!
 streams:
