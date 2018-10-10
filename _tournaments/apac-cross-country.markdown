@@ -5,9 +5,9 @@ duration: September 28-29
 image: "/uploads/baseball-field.jpg"
 layout: sportapac
 welcome: Welcome message here!
-streams: 
-    - https://www.youtube.com/embed/loPLBIZNsw0
-    - https://www.youtube.com/embed/loPLBIZNsw0
+streams:
+- https://www.youtube.com/embed/loPLBIZNsw0
+- https://www.youtube.com/embed/loPLBIZNsw0
 ---
 
 # Friday
