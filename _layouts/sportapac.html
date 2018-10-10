@@ -12,17 +12,31 @@ layout: default
             <li class="tab" onclick="openTab(event,'livestream')"><a>Livestream</a></li>
         </ul>
     </nav>
-    <div id="welcome" class="content-tab" >
-        <p>welcome</p>
+    <div id="welcome" class="content-tab content container--body">
+        <h1>Message from the Athletic Director</h1>
+        {{ page.welcome }}
     </div>
-    <div id="roster" class="content-tab" style="display:none">
-        <p>roster</p>
+    <div id="roster" class="content-tab content container--body" style="display:none">
+        <div class="columns is-multiline is-centered columns--teams">
+            {% for team in page.teams %}
+                <div class="column is-half">
+                    <h1 class="title text-center is-4">{{ team.name }}</h1>
+                    <img src="{{ team.image | relative_url }}">
+                </div>
+            {% endfor %}
+        </div>
     </div>
-    <div id="scores" class="content-tab" style="display:none">
-        <p>scores</p>
+    <div id="scores" class="content-tab content text-center container--body" style="display:none">
+        {{ content }}
     </div>
-    <div id="livestream" class="content-tab" style="display:none">
-        <p>livestream</p>
+    <div id="livestream" class="content-tab content container--body" style="display:none">
+        {% for stream in page.streams %}
+        <div class="video-wrap">
+            <div class="video-responsive">
+                <iframe width="420" height="315" src="{{ stream }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+        {% endfor %}
     </div>
 </div>
 <script src={{ "/assets/js/tabs.js" | relative_url }}></script>

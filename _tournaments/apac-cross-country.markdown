@@ -1,9 +1,13 @@
 ---
-title: Varsity Baseball Invitational
+title: APAC Cross Country
 date: 2018-09-16 20:58:00 Z
 duration: September 28-29
 image: "/uploads/baseball-field.jpg"
-layout: sport
+layout: sportapac
+welcome: Welcome message here!
+streams: 
+    - https://www.youtube.com/embed/loPLBIZNsw0
+    - https://www.youtube.com/embed/loPLBIZNsw0
 ---
 
 # Friday
