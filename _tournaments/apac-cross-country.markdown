@@ -1,17 +1,31 @@
 ---
 title: APAC Cross Country
 date: 2018-09-16 20:58:00 Z
-duration: September 28-29
-image: "/uploads/baseball-field.jpg"
+duration: October 17 - 21
+image: "/uploads/IMG_6442.jpg"
 welcome: Welcome message here!
 streams:
 - https://www.youtube.com/embed/loPLBIZNsw0
 - https://www.youtube.com/embed/loPLBIZNsw0
 teams:
-- name: SAS PX (Boys)
-  image: "/uploads/vball.jpg"
-- name: SAS PX (Girls)
-  image: "/uploads/softball.jpg"
+- name: AISG
+  image: "/uploads/AISG_APAC%20XC%20Team.jpg"
+- name: BISM
+  image: "/uploads/BISM_APAC%20XC%20Team.jpg"
+- name: CISS
+  image: "/uploads/CISS_APAC%20XC%20Team.jpg"
+- name: HKIS
+  image: "/uploads/HKIS_APAC%20XC%20Team.jpg"
+- name: ISB
+  image: "/uploads/ISB_APAC%20XC%20Team.jpg"
+- name: SAS PD
+  image: "/uploads/SASPD_APAC%20XC%20Team.jpeg"
+- name: SAS PX
+  image: "/uploads/SASPX_APAC%20XC%20Team.JPG"
+- name: SFS
+  image: "/uploads/SFS_APAC%20XC%20Team.jpg"
+- name: WAB
+  image: "/uploads/WAB_APAC%20XC%20Team.jpg"
 layout: sportapac
 ---
 
