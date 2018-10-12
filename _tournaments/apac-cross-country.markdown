@@ -3,7 +3,19 @@ title: APAC Cross Country
 date: 2018-09-16 20:58:00 Z
 duration: October 17 - 19
 image: "/uploads/IMG_6442.jpg"
-welcome: Welcome message here!
+welcome: "Greetings Running Enthusiasts,\n\n\nAs I write this, we are reeling from
+  the effects of Typhoon Manghkut and after seeing the devastation to the trees in
+  our neighborhood, I can only hope that we will be able to run the course we have
+  planned for October.  Hong Kong is a resilient city and I am confident that which
+  ever course is best suited for our run, each and every one of you will be surprised
+  to find how green our city is.  \n\n\nAPAC has a long history of bringing international
+  students together to compete.  It is a time to reconnect with old friends you may
+  have raced against last year or to make new friendships with new APAC peers.  This
+  is the first time we have hosted Cross Country and we hope that you enjoy running
+  in the rolling hills around Tai Tam Reservoir which is located, more or less, in
+  HKIS’ back yard.\n\n\nRun fast, run hard and enjoy the natural side of what most
+  of the world thinks is a “concrete jungle.”  Best of luck to each of you!\n\n\nSincerely\nSharon
+  H. Leung"
 streams:
 - https://www.youtube.com/embed/loPLBIZNsw0
 - https://www.youtube.com/embed/loPLBIZNsw0
@@ -31,3 +43,4 @@ layout: sportapac
 ---
 
 # Check back later!
+
