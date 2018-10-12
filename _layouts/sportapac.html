@@ -9,6 +9,7 @@ layout: default
             <li class="tab is-active" onclick="openTab(event,'welcome')"><a >Welcome</a></li>
             <li class="tab" onclick="openTab(event,'roster')"><a>Roster</a></li>
             <li class="tab" onclick="openTab(event,'schedule')"><a>Schedule</a></li>
+            <li class="tab" onclick="openTab(event,'scores')"><a>Scores</a></li>
             <li class="tab" onclick="openTab(event,'livestream')"><a>Livestream</a></li>
         </ul>
     </nav>
@@ -27,6 +28,9 @@ layout: default
         </div>
     </div>
     <div id="schedule" class="content-tab content text-center container--body" style="display:none">
+        <img src={{page.schedule}} />
+    </div>
+    <div id="scores" class="content-tab content text-center container--body" style="display:none">
         {{ content }}
     </div>
     <div id="livestream" class="content-tab content container--body" style="display:none">

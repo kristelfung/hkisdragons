@@ -7,6 +7,7 @@ welcome: Welcome message here!
 streams:
 - https://www.youtube.com/embed/loPLBIZNsw0
 - https://www.youtube.com/embed/loPLBIZNsw0
+schedule: "/uploads/Screen%20Shot%202018-10-10%20at%208.18.08%20PM.png"
 teams:
 - name: AISG
   image: "/uploads/AISG_APAC%20XC%20Team.jpg"
@@ -29,19 +30,4 @@ teams:
 layout: sportapac
 ---
 
-![Screen Shot 2018-10-10 at 8.18.08 PM.png](/uploads/Screen%20Shot%202018-10-10%20at%208.18.08%20PM.png)
-
-# Friday
-
-| Time | Home | Score | Away |
-|------|------|-------|-----|
-| 6:00 | HKIS |       | TYPHOONS |
-
-# Saturday
-
-| Time |  Home  | Score |  Away  |
-|------|--------|-------|--------|
-| 8:30 | HKBA   |       |  HKIS  |
-| 11:00|TYPHOONS|       |  HKBA  |
-| 1:30 | HKIS   |       |TYPHOONS|
-| 4:00 | HKBA   |       | HKIS |
+# Check back later!
