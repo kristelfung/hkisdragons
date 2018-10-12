@@ -19,7 +19,7 @@ welcome: "Greetings Running Enthusiasts,\n\n\nAs I write this, we are reeling fr
 streams:
 - https://www.youtube.com/embed/loPLBIZNsw0
 - https://www.youtube.com/embed/loPLBIZNsw0
-schedule: "/uploads/Screen%20Shot%202018-10-10%20at%208.18.08%20PM.png"
+schedule: "/uploads/Screen%20Shot%202018-10-12%20at%2010.30.17%20PM.png"
 teams:
 - name: AISG
   image: "/uploads/AISG_APAC%20XC%20Team.jpg"
