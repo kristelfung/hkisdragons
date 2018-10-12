@@ -41,18 +41,3 @@ layout: sportapac
 ---
 
 ![Screen Shot 2018-10-12 at 10.30.17 PM.png](/uploads/Screen%20Shot%202018-10-12%20at%2010.30.17%20PM.png)
-
-# Friday
-
-| Time | Home | Score | Away |
-|------|------|-------|-----|
-| 6:00 | HKIS |       | TYPHOONS |
-
-# Saturday
-
-| Time |  Home  | Score |  Away  |
-|------|--------|-------|--------|
-| 8:30 | HKBA   |       |  HKIS  |
-| 11:00|TYPHOONS|       |  HKBA  |
-| 1:30 | HKIS   |       |TYPHOONS|
-| 4:00 | HKBA   |       | HKIS |
