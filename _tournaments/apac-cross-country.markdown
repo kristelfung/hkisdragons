@@ -17,8 +17,8 @@ welcome: "Greetings Running Enthusiasts,\n\n\nAs I write this, we are reeling fr
   of the world thinks is a “concrete jungle.”  Best of luck to each of you!\n\n\nSincerely\nSharon
   H. Leung"
 streams:
-- https://www.youtube.com/embed/loPLBIZNsw0
-- https://www.youtube.com/embed/loPLBIZNsw0
+- 
+- 
 schedule: "/uploads/Screen%20Shot%202018-10-12%20at%2010.30.17%20PM.png"
 teams:
 - name: AISG
