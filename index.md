@@ -1,5 +1,6 @@
 ---
 title: Home
+position: 0
 button: view page
 year: 2018-2019
 sports: rugby, baseball, cross country, basketball, softball, soccer, badminton
