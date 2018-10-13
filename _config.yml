@@ -9,6 +9,9 @@ collections:
   entries:
     title: Entries
     output: false
+  final-results:
+    title: FINAL RESULTS
+    output: true
   posts:
     title: Posts
     output: true
