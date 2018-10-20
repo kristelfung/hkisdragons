@@ -17,8 +17,7 @@ welcome: "Greetings Running Enthusiasts,\n\n\nAs I write this, we are reeling fr
   of the world thinks is a “concrete jungle.”  Best of luck to each of you!\n\n\nSincerely\nSharon
   H. Leung"
 Race Video Footage:
-- 
-- 
+- https://youtu.be/33qlwKyEoQU
 schedule: "/uploads/Screen%20Shot%202018-10-12%20at%2010.30.17%20PM.png"
 teams:
 - name: AISG
@@ -42,5 +41,4 @@ teams:
 layout: sportapac
 ---
 
-# Check back later!
-
+# ![Screen Shot 2018-10-20 at 10.26.14 AM-030c2a.png](/uploads/Screen%20Shot%202018-10-20%20at%2010.26.14%20AM-030c2a.png)
