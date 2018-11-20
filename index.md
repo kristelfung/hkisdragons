@@ -6,10 +6,10 @@ year: 2018-2019
 sports: rugby, baseball, cross country, basketball, softball, soccer, badminton
 link: apac-cross-country
 order: 1
-image: "/uploads/IMG_6390.jpg"
+image: "/uploads/IMG_4844.jpg"
 layout: home
 ---
 
-# APAC Cross Country
+# Holiday Basketball Tournament
 
-##### October 17 - 19
+##### November 21 - 25
