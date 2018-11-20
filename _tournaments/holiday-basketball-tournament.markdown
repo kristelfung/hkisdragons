@@ -17,7 +17,7 @@ teams:
 - name: 
   image: 
 Results: 
-layout: sport
+layout: sportapac
 ---
 
 Check back later for results! 
