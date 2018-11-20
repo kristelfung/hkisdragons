@@ -38,7 +38,6 @@ teams:
   image: "/uploads/SFS_APAC%20XC%20Team.jpg"
 - name: WAB
   image: "/uploads/WAB_APAC%20XC%20Team.jpg"
-Results: "/uploads/APAC%20CROSS%20COUNTRY%202018%20RESULTS.docx"
 layout: sportapac
 ---
 
