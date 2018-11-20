@@ -16,7 +16,7 @@ welcome: "Greetings Running Enthusiasts,\n\n\nAs I write this, we are reeling fr
   HKIS’ back yard.\n\n\nRun fast, run hard and enjoy the natural side of what most
   of the world thinks is a “concrete jungle.”  Best of luck to each of you!\n\n\nSincerely\nSharon
   H. Leung"
-Race Video Footage:
+streams:
 - https://youtu.be/33qlwKyEoQU
 schedule: "/uploads/Screen%20Shot%202018-10-12%20at%2010.30.17%20PM.png"
 teams:
