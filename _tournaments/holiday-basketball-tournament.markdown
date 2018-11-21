@@ -7,9 +7,7 @@ welcome: "[welcome message]"
 streams:
 - https://www.youtube.com/embed/KFRVcoCIxFw
 - https://www.youtube.com/embed/t_qpqI6BGNo
-schedule:
-- "/uploads/bballschedule.png"
-- "/uploads/bballschedule2.png"
+schedule: "/uploads/bballschedule.png"
 teams:
 - name: 
   image: 
