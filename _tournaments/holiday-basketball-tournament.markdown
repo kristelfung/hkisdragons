@@ -35,4 +35,4 @@ layout: sportapac
 | Table cell    | Table cell    |
 | Table cell    | Table cell    |
 
-<p>HS -  HKIS   44   SASPX  28    MS -  ASIJ  28  SAS   42</p>
+HS -  HKIS   44   SASPX  28    MS -  ASIJ  28  SAS   42
