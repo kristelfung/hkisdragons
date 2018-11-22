@@ -37,3 +37,10 @@ HS Gym (G)  SAS  37  HKIS  31
 MS Gym (G)  ASB 60  TAS  33
 
 
+| Time | HS Gym | MS Gym |
+| ------------- | ------------- | ------------- |
+| 8:00    | (G) HKIS 44 SASPX 28    | (G) ASIJ 28 SAS 42    |
+| 10:00   | (B) ASB 61 HKIS 51    | (B) SAS 38 ASIJ 30    |
+| 11:30    | (G) SAS 37 HKIS 31    | (G) ASB 60 TAS 33    |
+
+
