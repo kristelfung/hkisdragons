@@ -25,7 +25,7 @@ schedule: "/uploads/bballschedule-e0ce5a.png"
 layout: sportapac
 ---
 
-# Girls
+# Scores
 
 |   High School Gym   |  Middle School Gym  | 
 |---------------------|---------------------|
