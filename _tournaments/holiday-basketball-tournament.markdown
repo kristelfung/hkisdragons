@@ -30,4 +30,4 @@ layout: sportapac
 
 <p>| High School | Middle School | </p>
 <p>| ------------- | ------------- |</p>
-<p>| HKIS 44, SASPX 28    | ASIJ 28, SAS 42    |</p>
+<p>| HKIS 44, SASPX 28    | ASIJ 28,        SAS 42    |</p>
