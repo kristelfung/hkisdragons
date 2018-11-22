@@ -22,6 +22,7 @@ streams:
 - https://www.youtube.com/embed/dvm0TVHF9z4
 - https://www.youtube.com/embed/t_qpqI6BGNo
 schedule: "/uploads/bballschedule-e0ce5a.png"
+roster: false
 layout: sportapac
 ---
 
