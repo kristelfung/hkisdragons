@@ -22,13 +22,18 @@ streams:
 - https://www.youtube.com/embed/dvm0TVHF9z4
 - https://www.youtube.com/embed/t_qpqI6BGNo
 schedule: "/uploads/bballschedule-e0ce5a.png"
-roster: false
+Results: 
 layout: sportapac
 ---
 
-# Scores
+8:00
+HS Gym (G)   HKIS  44  SASPX  28
+MS Gym (G)   ASIJ   28   SAS   42
+10:00
+HS Gym  (B)   ASB  61  HKIS  51
+MS GYM  (B)   SAS  38   ASIJ   30
+11:30
+HS Gym (G)  SAS  37  HKIS  31
+MS Gym (G)  ASB 60  TAS  33
 
-|   High School Gym   |  Middle School Gym  | 
-|---------------------|---------------------|
-| HKIS 44 vs SASPX 28 | ASIJ 28 vs SASPX 42 |
-|                     |                     |
+
