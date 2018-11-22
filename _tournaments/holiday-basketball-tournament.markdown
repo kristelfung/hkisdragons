@@ -39,8 +39,8 @@ MS Gym (G)  ASB 60  TAS  33
 HS Gym (B)  St MARY'S  51
 MS GYM (G)   SASPX 25   ASIJ   47
 2:30
-HS GYM (B)   HKIS       SAS
-MS GYM (B)   ASIJ       ASB
+HS GYM (B)   HKIS 57      SAS  58
+MS GYM (B)   ASIJ 57      ASB   46
 
 
 
