@@ -29,7 +29,6 @@ layout: sportapac
 # Thursday, November 22, 2018
 
 | **Time** | **HS Gym** | **MS Gym** |
-
 | ------------- | ------------- | ------------- |
 | 8:00    | **HKIS 44** vs SASPX 28 (G)    |  ASIJ 28 vs **SAS 42** (G)    |
 | 10:00   |  **ASB 61** vs HKIS 51 (B)    | **SAS 38** vs ASIJ 30 (B)    |
@@ -43,7 +42,6 @@ layout: sportapac
 # Friday, November 23, 2018
 
 | **Time** | **HS Gym** | **MS Gym** |
-
 | ------------- | ------------- | ------------- |
 | 8:00    | ASB vs TAS (B)    |  SAS vs ST MARY'S (B)    |
 | 9:30   |  HKIS vs TAS (G)    | ASIJ vs ASB (G)    |
