@@ -26,9 +26,13 @@ Results:
 layout: sportapac
 ---
 
-**GIRLS**
-<p>| HS |MS |</p>
-<p>|———|———|</p>
-<p>| HKIS 44| ASIJ 28|</p>
-<p>| SASPX 28 | SAS 42 |</p>
+###**GIRLS**
+----
+| High School | Middle School | 
+| ------------- | ------------- |
+| HKIS 44, SASPX 28    | ASIJ 28, SAS 42    |
+| Table cell    | Table cell    |
+| Table cell    | Table cell    |
+| Table cell    | Table cell    |
+
 <p>HS -  HKIS   44   SASPX  28    MS -  ASIJ  28  SAS   42</p>
