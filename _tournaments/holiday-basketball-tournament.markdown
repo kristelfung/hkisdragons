@@ -37,6 +37,7 @@ HS Gym (G)  SAS  37  HKIS  31
 MS Gym (G)  ASB 60  TAS  33
 
 **Thursday, November 22, 2018**
+
 | Time | HS Gym | MS Gym |
 
 | ------------- | ------------- | ------------- |
@@ -50,6 +51,7 @@ MS Gym (G)  ASB 60  TAS  33
 | 7:00    | ST MARY'S vs HKIS (B)    | TAS vs ASIJ (B)    |
 
 **Friday, November 23, 2018**
+
 | Time | HS Gym | MS Gym |
 
 | ------------- | ------------- | ------------- |
