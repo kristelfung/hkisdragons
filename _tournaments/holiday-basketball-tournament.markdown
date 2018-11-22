@@ -41,9 +41,9 @@ MS Gym (G)  ASB 60  TAS  33
 | **Time** | **HS Gym** | **MS Gym** |
 
 | ------------- | ------------- | ------------- |
-| 8:00    | HKIS 44 vs SASPX 28 (G)    |  ASIJ 28 vs SAS 42 (G)    |
-| 10:00   |  ASB 61 vs HKIS 51 (B)    | SAS 38 vs ASIJ 30 (B)    |
-| 11:30    |  SAS 37 vs HKIS 31 (G)   |  ASB 60 vs TAS 33     (B)|
+| 8:00    | **HKIS 44** vs SASPX 28 (G)    |  ASIJ 28 vs **SAS 42** (G)    |
+| 10:00   |  **ASB 61** vs HKIS 51 (B)    | **SAS 38** vs ASIJ 30 (B)    |
+| 11:30    |  **SAS 37** vs HKIS 31 (G)   |  **ASB 60** vs TAS 33     (B)|
 | 1:00    | ST MARY'S vs TAS (B)    | SASPX vs ASIJ (G)    |
 | 2:30    | HKIS vs SAS (B)    | ASIJ vs ASB (B)    |
 | 4:00    | ASB vs SAS (G)    |             |
