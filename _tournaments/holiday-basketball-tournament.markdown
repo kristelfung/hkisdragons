@@ -44,7 +44,8 @@ MS GYM (B)   ASIJ 57      ASB   46
 
 
 **Thursday, November 22, 2018**
-| Time | HS Gym | MS Gym |
+
+| **Time** | **HS Gym** | **MS Gym** |
 
 | ------------- | ------------- | ------------- |
 | 8:00    | **HKIS 44** vs SASPX 28 (G)    |  ASIJ 28 vs **SAS 42** (G)    |
@@ -57,7 +58,8 @@ MS GYM (B)   ASIJ 57      ASB   46
 | 7:00    | ST MARY'S vs HKIS (B)    | TAS vs ASIJ (B)    |
 
 **Friday, November 23, 2018**
-| Time | HS Gym | MS Gym |
+
+| **Time** | **HS Gym** | **MS Gym** |
 
 | ------------- | ------------- | ------------- |
 | 8:00    | ASB vs TAS (B)    |  SAS vs ST MARY'S (B)    |
