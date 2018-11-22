@@ -19,29 +19,12 @@ welcome: "HKIS is happy to welcome all our guests from overseas and from across 
   that end with a handshake.  All the best to players and coaches over the next few
   days!!\n\n\n\nSincerely,\nSharon H. Leung\nHKIS Athletic Director                    \n"
 streams:
-- https://www.youtube.com/embed/dvm0TVHF9z4
-- https://www.youtube.com/embed/t_qpqI6BGNo
+- https://www.youtube.com/embed/qz55WlRYFT0
+- https://www.youtube.com/embed/gHb_d06JvT0
 schedule: "/uploads/bballschedule-e0ce5a.png"
 Results: 
 layout: sportapac
 ---
-
-8:00
-HS Gym (G)   HKIS  44  SASPX  28
-MS Gym (G)   ASIJ   28   SAS   42
-10:00
-HS Gym  (B)   ASB  61  HKIS  51
-MS GYM  (B)   SAS  38   ASIJ   30
-11:30
-HS Gym (G)  SAS  37  HKIS  31
-MS Gym (G)  ASB 60  TAS  33
-1:00
-HS Gym (B)  St MARY'S  51
-MS GYM (G)   SASPX 25   ASIJ   47
-2:30
-HS GYM (B)   HKIS 57      SAS  58
-MS GYM (B)   ASIJ 57      ASB   46
-
 
 **Thursday, November 22, 2018**
 
@@ -53,9 +36,9 @@ MS GYM (B)   ASIJ 57      ASB   46
 | 11:30    |  **SAS 37** vs HKIS 31 (G)   |  **ASB 60** vs TAS 33     (B)|
 | 1:00    | ST MARY'S 51 vs TAS (B)    | SASPX 25 vs **ASIJ 47** (G)    |
 | 2:30    | HKIS 57 vs **SAS 58** (B)    | **ASIJ 57** vs ASB 46 (B)    |
-| 4:00    | ASB 48 vs SAS  29 (G)    |             |
-| 5:30    | HKIS 28 vs ASIJ  32(G)    | TAS 44 vs SASPX 30(G)    |
-| 7:00    | ST MARY'S 37 vs HKIS 54 (B)    | TAS 27 vs ASIJ 55(B)    |
+| 4:00    | **ASB 48** vs SAS  29 (G)    |             |
+| 5:30    | HKIS 28 vs **ASIJ**  32(G)    | **TAS 44** vs SASPX 30(G)    |
+| 7:00    | ST MARY'S 37 vs **HKIS 54** (B)    | TAS 27 vs **ASIJ 55(B)**    |
 
 **Friday, November 23, 2018**
 
