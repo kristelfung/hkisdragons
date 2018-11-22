@@ -7,7 +7,9 @@ layout: default
     <nav class="tabs is-toggle is-fullwidth is-medium">
         <ul>
             <li class="tab is-active" onclick="openTab(event,'welcome')"><a >Welcome</a></li>
+            {% if page.roster == true %}
             <li class="tab" onclick="openTab(event,'roster')"><a>Roster</a></li>
+            {% endif %}
             <li class="tab" onclick="openTab(event,'schedule')"><a>Schedule</a></li>
             <li class="tab" onclick="openTab(event,'scores')"><a>Scores</a></li>
             <li class="tab" onclick="openTab(event,'livestream')"><a>Livestream</a></li>
@@ -17,6 +19,7 @@ layout: default
         <h1>Message from the Athletic Director</h1>
         {{ page.welcome }}
     </div>
+    {% if page.roster == true %}
     <div id="roster" class="content-tab content container--body" style="display:none">
         <div class="columns is-multiline is-centered columns--teams">
             {% for team in page.teams %}
@@ -27,6 +30,7 @@ layout: default
             {% endfor %}
         </div>
     </div>
+    {% endif %}
     <div id="schedule" class="content-tab content text-center container--body" style="display:none">
         <img src={{page.schedule}} />
     </div>
