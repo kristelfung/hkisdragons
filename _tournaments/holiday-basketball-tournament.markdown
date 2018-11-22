@@ -26,7 +26,7 @@ Results:
 layout: sportapac
 ---
 
-###*GIRLS\*
+###*GIRLS*
 <br />
 | HS |MS |
 <br />
