@@ -26,7 +26,7 @@ Results:
 layout: sportapac
 ---
 
-**Thursday, November 22, 2018**
+# Thursday, November 22, 2018
 
 | **Time** | **HS Gym** | **MS Gym** |
 
@@ -40,7 +40,7 @@ layout: sportapac
 | 5:30    | HKIS 28 vs **ASIJ**  32(G)    | **TAS 44** vs SASPX 30(G)    |
 | 7:00    | ST MARY'S 37 vs **HKIS 54** (B)    | TAS 27 vs **ASIJ 55(B)**    |
 
-**Friday, November 23, 2018**
+# Friday, November 23, 2018
 
 | **Time** | **HS Gym** | **MS Gym** |
 
