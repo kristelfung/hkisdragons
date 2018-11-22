@@ -54,7 +54,7 @@ MS GYM (B)   ASIJ 57      ASB   46
 | 1:00    | ST MARY'S 51 vs TAS (B)    | SASPX 25 vs **ASIJ 47** (G)    |
 | 2:30    | HKIS 57 vs **SAS 58** (B)    | **ASIJ 57** vs ASB 46 (B)    |
 | 4:00    | ASB 48 vs SAS  29 (G)    |             |
-| 5:30    | HKIS vs ASIJ (G)    | TAS vs SASPX (G)    |
+| 5:30    | HKIS 28 vs ASIJ  32(G)    | TAS 44 vs SASPX 30(G)    |
 | 7:00    | ST MARY'S vs HKIS (B)    | TAS vs ASIJ (B)    |
 
 **Friday, November 23, 2018**
