@@ -26,8 +26,11 @@ Results:
 layout: sportapac
 ---
 
-## **GIRLS**
+8:00
+HS Gym (G)   HKIS  44  SASPX  28
+MS Gym (G)   ASIJ   28   SAS   42
+10:00
+HS Gym  (B)   ASB  61  HKIS  51
+MS GYM  (B)   SAS  38   ASIJ   30
 
-<p>| High School | Middle School | </p>
-<p>| ------------- | ------------- |</p>
-<p>| HKIS 44, SASPX 28    | ASIJ 28,        SAS 42    |</p>
+
