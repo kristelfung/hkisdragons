@@ -43,8 +43,8 @@ layout: sportapac
 
 | **Time** | **HS Gym** | **MS Gym** |
 | ------------- | ------------- | ------------- |
-| 8:00    | ASB vs TAS (B)    |  SAS vs ST MARY'S (B)    |
-| 9:30   |  HKIS vs TAS (G)    | ASIJ vs ASB (G)    |
+| 8:00    | ASB 42  vs TAS 43 (B)    |  SAS 38 vs ST MARY'S 43 (B)    |
+| 9:30   |  HKIS 36 vs TAS 45 (G)    | ASIJ 26 vs ASB 47(G)    |
 | 11:00    |  HKIS vs ASIJ (B)   |  SAS vs SASPX (G)|
 | 12:30    | ST MARY'S vs ASB (B)    | SAS vs TAS (B)    |
 | 2:00    | TAS vs ASIJ (G)    | ASB vs HKIS (G)    |
