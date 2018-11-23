@@ -52,6 +52,18 @@ layout: sportapac
 | 6:00    | SASPX 29 vs ASB 64 (G)    | 33 TAS vs SAS 41 (G)    |
 | 7:30    | ASB vs SAS (B)    |             |
 
+BYES
+GIRLS   #1 ASB   #2  SAS
+BOYS   #1      #2
+
+SATURDAY, NOVEMBER 23
+8:00    
+GIRLS   3 TAS v 6 SASPX   /   4 ASIJ v  5 HKIS
+9:30
+BOYS   3     v   ST MARY'S   /   4       v 5  
+11:30
+GIRLS    1 ASB  v  (W)  3 v 6 /   2 SAS v (W) 4 v 5
+1:15     1      v  (W)  3 v 6 /    2      v (W)  4 v 5
 
 
 
