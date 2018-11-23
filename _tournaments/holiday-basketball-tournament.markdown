@@ -19,8 +19,8 @@ welcome: "HKIS is happy to welcome all our guests from overseas and from across 
   that end with a handshake.  All the best to players and coaches over the next few
   days!!\n\n\n\nSincerely,\nSharon H. Leung\nHKIS Athletic Director                    \n"
 streams:
-- https://www.youtube.com/embed/qz55WlRYFT0
-- https://www.youtube.com/embed/gHb_d06JvT0
+- https://www.youtube.com/embed/FJnKnz7HTHQ
+- https://www.youtube.com/embed/rEWxYvoyI9A
 schedule: "/uploads/bballschedule-e0ce5a.png"
 Results: 
 layout: sportapac
