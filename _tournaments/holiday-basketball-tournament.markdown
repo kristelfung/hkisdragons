@@ -45,11 +45,11 @@ layout: sportapac
 | ------------- | ------------- | ------------- |
 | 8:00    | ASB 42  vs TAS 43 (B)    |  SAS 38 vs ST MARY'S 43 (B)    |
 | 9:30   |  HKIS 36 vs TAS 45 (G)    | ASIJ 26 vs ASB 47(G)    |
-| 11:00    |  33 HKIS  vs ASIJ 44(B)   |  SAS vs SASPX (G)|
-| 12:30    | ST MARY'S vs ASB (B)    | SAS vs TAS (B)    |
-| 2:00    | TAS vs ASIJ (G)    | ASB vs HKIS (G)    |
-| 4:30    | ASIJ vs ST MARY'S (B)    | TAS vs HKIS (B) |
-| 6:00    | SASPX vs ASB (G)    | TAS vs SAS (G)    |
+| 11:00    |  33 HKIS  vs ASIJ 44(B)   |  SAS 44 vs SASPX 27(G)|
+| 12:30    | ST MARY'S 48 vs ASB 51 (B)    | SAS 56 vs TAS 53 (B)    |
+| 2:00    | TAS 48 vs ASIJ (G) 22  | ASB 57  vs HKIS 28 (G)    |
+| 4:30    | ASIJ 43 vs ST MARY'S 24 (B)    | TAS 44 vs HKIS 48 (B) |
+| 6:00    | SASPX 29 vs ASB 64 (G)    | 33 TAS vs SAS 41 (G)    |
 | 7:30    | ASB vs SAS (B)    |             |
 
 
