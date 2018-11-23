@@ -43,14 +43,27 @@ layout: sportapac
 
 | **Time** | **HS Gym** | **MS Gym** |
 | ------------- | ------------- | ------------- |
-| 8:00    | ASB 42  vs TAS 43 (B)    |  SAS 38 vs ST MARY'S 43 (B)    |
-| 9:30   |  HKIS 36 vs TAS 45 (G)    | ASIJ 26 vs ASB 47(G)    |
-| 11:00    |  33 HKIS  vs ASIJ 44(B)   |  SAS 44 vs SASPX 27(G)|
-| 12:30    | ST MARY'S 48 vs ASB 51 (B)    | SAS 56 vs TAS 53 (B)    |
-| 2:00    | TAS 48 vs ASIJ (G) 22  | ASB 57  vs HKIS 28 (G)    |
-| 4:30    | ASIJ 43 vs ST MARY'S 24 (B)    | TAS 44 vs HKIS 48 (B) |
-| 6:00    | SASPX 29 vs ASB 64 (G)    | 33 TAS vs SAS 41 (G)    |
+| 8:00    | ASB 42  vs **TAS 43** (B)    |  SAS 38 vs **ST MARY'S 43** (B)    |
+| 9:30   |  HKIS 36 vs **TAS 45** (G)    | ASIJ 26 vs **ASB 47**(G)    |
+| 11:00    |  33 HKIS  vs **ASIJ 44**(B)   | ** SAS 44 **vs SASPX 27(G)|
+| 12:30    | ST MARY'S 48 vs **ASB 51** (B)    | **SAS 56** vs TAS 53 (B)    |
+| 2:00    | **TAS 48** vs ASIJ (G) 22  | **ASB 57**  vs HKIS 28 (G)    |
+| 4:30    | **ASIJ 43** vs ST MARY'S 24 (B)    | TAS 44 vs **HKIS 48** (B) |
+| 6:00    | SASPX 29 vs **ASB 64** (G)    | 33 TAS vs **SAS 41** (G)    |
 | 7:30    | ASB vs SAS (B)    |             |
+
+## Saturday, November 24, 2018
+
+| **Time** | **HS Gym** | **MS Gym** |
+| ------------- | ------------- | ------------- |
+| 8:00 (GIRLS)    | 3 TAS vs 6 SASPX    |  4 ASIJ vs 5 HKIS    |
+| 9:30 (BOYS)  |  3 vs 6 ST MARY'S      | 4 vs 5    |
+| 11:30 (GIRLS)    |  1 ASB vs (W) 3vs6   |  2 SAS vs (W) 4vs5|
+| 1:15 (BOYS)  | 1 vs (W) 3vs6    | 2 vs (W) 4vs5    |
+| 3:00    | C3 Loser vs C4 Loser (5th) (B)  | C1 Loser vs C2 Loser (5th) (G)    |
+| 4:30    | C5 Loser vs C6 Loser (3rd) (G)    | C7 Loser vs C8 Loser (3rd) (B) |
+| 6:00    | Girls' Championship: C5 Winner vs C6 Winner |
+| 7:45    | Boys' Championship: C7 Winner vs C8 Winner|
 
 BYES
 GIRLS   #1 ASB   #2  SAS
