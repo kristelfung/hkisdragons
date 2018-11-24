@@ -21,6 +21,8 @@ welcome: "HKIS is happy to welcome all our guests from overseas and from across 
 streams:
 - https://www.youtube.com/embed/qz55WlRYFT0
 - https://www.youtube.com/embed/gHb_d06JvT0
+- https://www.youtube.com/watch?v=rEWxYvoyI9A
+- https://www.youtube.com/watch?v=FJnKnz7HTHQ
 schedule: "/uploads/bballschedule-e0ce5a.png"
 Results: 
 layout: sportapac
