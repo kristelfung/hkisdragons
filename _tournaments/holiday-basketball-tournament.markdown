@@ -62,8 +62,19 @@ GIRLS    TAS   56 v  SASPX 32/    ASIJ 29  v   HKIS  22
 9:30
 BOYS    TAS 37   v   ST MARY'S 43  /     ASB 62    v  HKIS  64   
 11:30
-GIRLS     ASB  v  (W) ASIJ   /    SAS v (W) V TAS 
-1:15      /    2      v (W)  
+GIRLS     ASB  v   ASIJ   /    SAS v (W) V TAS 
+1:15 
+BOYS        SAS  V  HKIS  /  ASIJ   V    ST MARY'S
+3:00    5TH PLACE GAMES 
+GIRLS    SASPX  V   HKIS  
+BOYS   TAS  V  ASB
+4:30 3RD PLACE GAMES  
+GIRLS 
+BOYS 
+6:00   GIRLS CHAMPS
+7:45   BOYS CHAMPS
+    
+    
 
 
 
