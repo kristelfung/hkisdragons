@@ -21,8 +21,6 @@ welcome: "HKIS is happy to welcome all our guests from overseas and from across 
 streams:
 - https://www.youtube.com/embed/qz55WlRYFT0
 - https://www.youtube.com/embed/gHb_d06JvT0
-- https://www.youtube.com/watch?v=rEWxYvoyI9A
-- https://www.youtube.com/watch?v=FJnKnz7HTHQ
 schedule: "/uploads/bballschedule-e0ce5a.png"
 Results: 
 layout: sportapac
@@ -64,12 +62,12 @@ GIRLS    TAS   56 v  SASPX 32/    ASIJ 29  v   HKIS  22
 9:30
 BOYS    TAS 37   v   ST MARY'S 43  /     ASB 62    v  HKIS  64   
 11:30
-GIRLS     ASB  v   ASIJ   /    SAS v (W) V TAS 
+GIRLS     ASB 45 v   ASIJ 21  /    SAS 26 v (W) V TAS 37
 1:15 
-BOYS        SAS  V  HKIS  /  ASIJ   V    ST MARY'S
+BOYS        SAS 42  V  HKIS 47  /  ASIJ 36   V  ST MARY'S 30
 3:00    5TH PLACE GAMES 
-GIRLS    SASPX  V   HKIS  
-BOYS   TAS  V  ASB
+GIRLS    SASPX 42 V   HKIS  47 
+BOYS   TAS 71 V  ASB  40
 4:30 3RD PLACE GAMES  
 GIRLS 
 BOYS 
