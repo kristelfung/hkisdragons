@@ -65,9 +65,9 @@ BOYS   #1      #2
 | 11:30 (GIRLS)   |  **ASB 45** v   ASIJ 21   | SAS 26 v **TAS 37** |
 | 1:15  (BOYS)  | SAS 42  V  **HKIS 47**    | **ASIJ 36**   V  ST MARY'S 30    |
 | 3:00 (5TH PLACE GAMES)    | (G) SASPX 42 V **HKIS  47**  | (B) **TAS 71** V  ASB  40    |
-| 4:30  (3RD PLACE GAMES)  | (G) SAS | (B) ST MARY'S |
-| 6:00    | GIRL'S CHAMPIONS: ASB   |
-| 7:30    | BOY'S CHAMPIONS: ASIJ   |
+| 4:30  (3RD PLACE GAMES)  | (G)*** SAS 44 v ASIJ  30 | (B)*** ST MARY'S 46  SAS  43 |
+| 6:00    | GIRL'S CHAMPIONS: *** ASB 60  TAS  40   |
+| 7:30    | BOY'S CHAMPIONS: ***  ASIJ 71  HKIS  64  |
 
 SATURDAY, NOVEMBER 23
 8:00    
