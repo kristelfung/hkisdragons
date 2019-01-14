@@ -2,10 +2,10 @@
 title: APAC Super Basketball
 date: 2019-01-14 06:52:00 Z
 duration: January 23-27
-image: "/uploads/16711793_1100554880066653_1027602916278197898_n.jpg"
+image: 
 welcome: 'waiting on this '
 streams: not yet
-schedule: "/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).docx"
+schedule: "/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).png"
 roster: true
 teams:
 - name: WAB
@@ -35,4 +35,4 @@ teams:
 layout: sportapac
 ---
 
-[APAC BOYS SUPER BASKETBALL 2019 (4) (1).docx](/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).docx)
+![APAC BOYS SUPER BASKETBALL 2019 (4) (1).png](/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).png)
