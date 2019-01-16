@@ -2,7 +2,7 @@
 title: APAC Super Basketball
 date: 2019-01-14 06:52:00 Z
 duration: January 23-27
-image: "/uploads/IMG_4844-392e8b.jpg"
+image: "/uploads/unnamed-b30dbf.jpg"
 welcome: "APAC BOYS SUPER BASKETBALL 2019\n\n\nWelcome teams to Hong Kong!   HKIS
   is excited about hosting this year’s Super Boys Basketball tournament.  We look
   forward to a great weekend of basketball.  Preliminary tournaments such as the Great
