@@ -3,11 +3,11 @@ title: APAC Super Basketball
 date: 2019-01-14 06:52:00 Z
 duration: January 23-27
 image: "/uploads/IMG_4844-392e8b.jpg"
-welcome: "APAC BOYS SUPER BASKETBALL 2019\n\nWelcome teams to Hong Kong!   HKIS is
-  excited about hosting this year’s Super Boys Basketball tournament.  We look forward
-  to a great weekend of basketball.  Preliminary tournaments such as the Great Wall,
-  HKIS Holiday Tournament, and China Cup have been tightly contested so we look forward
-  to some great tournaments.   Our defending APAC champions are Shanghai American
+welcome: "APAC BOYS SUPER BASKETBALL 2019\n\n\nWelcome teams to Hong Kong!   HKIS
+  is excited about hosting this year’s Super Boys Basketball tournament.  We look
+  forward to a great weekend of basketball.  Preliminary tournaments such as the Great
+  Wall, HKIS Holiday Tournament, and China Cup have been tightly contested so we look
+  forward to some great tournaments.   Our defending APAC champions are Shanghai American
   School-Puxi (Asia Division) and Seoul Foreign School (Pacific Division).  \n\nA
   big thanks to the our community who have opened their homes up for visiting athletes.
   \ Your hospitality is appreciated.  Another thanks to Booster Club who support our
