@@ -3,7 +3,7 @@ title: APAC Super Basketball
 date: 2019-01-14 06:52:00 Z
 duration: January 23-27
 image: "/uploads/IMG_4844-392e8b.jpg"
-welcome: "/uploads/Screen%20Shot%202019-01-15%20at%209.50.50%20PM.png"
+welcome: "/uploads/Screen%20Shot%202019-01-16%20at%2010.42.21%20AM.png"
 streams: not yet
 schedule: "/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).png"
 roster: true
