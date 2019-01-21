@@ -10,6 +10,6 @@ image: "/uploads/IMG_4844.jpg"
 layout: home
 ---
 
-# Holiday Basketball Tournament
+# SUPER APAC BASKETBALL
 
-##### November 21 - 25
+##### January 24 - 26
