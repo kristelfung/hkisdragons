@@ -46,8 +46,6 @@ teams:
 layout: sportapac
 ---
 
-![APAC BOYS SUPER BASKETBALL 2019 (4) (1).png](/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).png)
-
 ## Thursday, January 24, 2019
 
 | **Time** | **HS Gym** | **MS Gym** |
