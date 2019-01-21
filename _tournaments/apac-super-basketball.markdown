@@ -1,5 +1,5 @@
 ---
-title: APAC Super Basketball
+title: Super APAC Basketball
 date: 2019-01-14 06:52:00 Z
 duration: January 23-27
 image: "/uploads/unnamed-b30dbf.jpg"
