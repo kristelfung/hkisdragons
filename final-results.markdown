@@ -5,7 +5,9 @@ order: 3
 ---
 
 # ![Screen Shot 2018-10-20 at 10.26.14 AM.png](/uploads/Screen%20Shot%202018-10-20%20at%2010.26.14%20AM.png)
-**HOLIDAY BASKETBALL TOURNAMENT**
+
+
+###**HOLIDAY BASKETBALL TOURNAMENT**
 ## Thursday, November 22, 2018
 
 | **Time** | **HS Gym** | **MS Gym** |
@@ -32,10 +34,6 @@ order: 3
 | 6:00    | SASPX 29 vs ASB 64 (G)    | 33 TAS vs SAS 41 (G)    |
 | 7:30    | ASB vs SAS (B)    |             |
 
-BYES
-GIRLS   #1 ASB   #2  SAS
-BOYS   #1      #2
-
 ## Saturday, November 24, 2018
 
 | **Time** | **HS Gym** | **MS Gym** |
@@ -45,29 +43,7 @@ BOYS   #1      #2
 | 11:30 (GIRLS)   |  **ASB 45** v   ASIJ 21   | SAS 26 v **TAS 37** |
 | 1:15  (BOYS)  | SAS 42  V  **HKIS 47**    | **ASIJ 36**   V  ST MARY'S 30    |
 | 3:00 (5TH PLACE GAMES)    | (G) SASPX 42 V **HKIS  47**  | (B) **TAS 71** V  ASB  40    |
-| 4:30  (3RD PLACE GAMES)  | (G)*** SAS 44 v ASIJ  30 | (B)*** ST MARY'S 46  SAS  43 |
-| 6:00    | GIRL'S CHAMPIONSHIP: *** ASB 60  TAS  40   |
-| 7:30    | BOY'S CHAMPIONSHIP: ***  ASIJ 71  HKIS  64  |
-
-SATURDAY, NOVEMBER 23
-8:00    
-GIRLS    TAS   56 v  SASPX 32/    ASIJ 29  v   HKIS  22
-9:30
-BOYS    TAS 37   v   ST MARY'S 43  /     ASB 62    v  HKIS  64   
-11:30
-GIRLS     ASB 45 v   ASIJ 21  /    SAS 26 v (W) V TAS 37
-1:15 
-BOYS        SAS 42  V  HKIS 47  /  ASIJ 36   V  ST MARY'S 30
-3:00    5TH PLACE GAMES 
-GIRLS    SASPX 42 V   HKIS  47 
-BOYS   TAS 71 V  ASB  40
-4:30 3RD PLACE   
-GIRLS   SAS
-BOYS   ST MARY'S
-6:00   GIRLS CHAMPS   ASB
-7:45   BOYS CHAMPS    ASIJ  
-    
-    
-
-
+| 4:30  (3RD PLACE GAMES)  | (G)**SAS 44** v ASIJ  30 | (B) **ST MARY'S 46**  SAS  43 |
+| 6:00    | GIRL'S CHAMPIONSHIP: **ASB 60**  TAS  40   |
+| 7:30    | BOY'S CHAMPIONSHIP:  **ASIJ 71**  HKIS  64  |
 
