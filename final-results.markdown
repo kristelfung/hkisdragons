@@ -6,8 +6,8 @@ order: 3
 
 # ![Screen Shot 2018-10-20 at 10.26.14 AM.png](/uploads/Screen%20Shot%202018-10-20%20at%2010.26.14%20AM.png)
 
+# **HOLIDAY BASKETBALL TOURNAMENT**
 
-###**HOLIDAY BASKETBALL TOURNAMENT**
 ## Thursday, November 22, 2018
 
 | **Time** | **HS Gym** | **MS Gym** |
@@ -46,4 +46,3 @@ order: 3
 | 4:30  (3RD PLACE GAMES)  | (G)**SAS 44** v ASIJ  30 | (B) **ST MARY'S 46**  SAS  43 |
 | 6:00    | GIRL'S CHAMPIONSHIP: **ASB 60**  TAS  40   |
 | 7:30    | BOY'S CHAMPIONSHIP:  **ASIJ 71**  HKIS  64  |
-
