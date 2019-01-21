@@ -47,3 +47,42 @@ layout: sportapac
 ---
 
 ![APAC BOYS SUPER BASKETBALL 2019 (4) (1).png](/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).png)
+
+## Thursday, January 24, 2019
+
+| **Time** | **HS Gym** | **MS Gym** |
+| ------------- | ------------- | ------------- |
+| 9:00    | CA vs WAB    |  BRENT vs ISB    |
+| 10:30   |  SFS vs HKIS    | TCIS vs AISG    |
+| 12:00    |  WAB vs SASPD   |  ISB vs SASPX  |
+| 2:00    | HKIS vs UNIS    | AISG vs CISS    |
+| 3:30    | SASPD vs CA    | SASPX vs BRENT    |
+| 5:00    | UNIS vs SFS    |    CISS vs TCIS    |
+
+
+## Friday, January 25, 2019
+
+| **Time** | **HS Gym** | **MS Gym** |
+| ------------- | ------------- | ------------- |
+| 8:30    | C2 vs B3    |  B2 vs C3    |
+| 10:00   |  A2 vs D3    | D2 vs A3    |
+| 11:30    |  A1 vs B1   |  C1 vs D1   |
+| 1:30    | L13 vs L14    | L15 vs L16    |
+| 3:00    | A1/B1 vs W13  | C1/D1 vs W14    |
+| 4:30    | C1/D1 vs W15    | A1/B1 vs W16 |
+
+
+## Saturday, January 26, 2019
+
+| **Time** | **HS Gym** | **MS Gym** |
+| ------------- | ------------- | ------------- |
+| 8:30   | L15 vs L13    |  L16 vs L14   |
+| 10:00   |  L21 vs L22    | L23 vs L24    |
+| 11:30   |  Semi (W21 vs W22)   | Semi (W23 vs W24) |
+| 1:00  | L13 vs L16    | L14 vs L15    |
+| 2:30    | 5th vs 6th  | 7th vs 8th   |
+| 4:00  |     3rd vs 4th    |       |
+| 5:30    | CHAMPIONSHIP   |        | 
+
+
+
