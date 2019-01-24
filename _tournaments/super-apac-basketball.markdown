@@ -64,9 +64,9 @@ layout: sportapac
 
 | **Time** | **HS Gym** | **MS Gym** |
 | ------------- | ------------- | ------------- |
-| 8:30    | C2 vs B3    |  B2 vs C3    |
-| 10:00   |  A2 vs D3    | D2 vs A3    |
-| 11:30    |  A1 vs B1   |  C1 vs D1   |
+| 8:30    | C2 vs B3    |  B2 vs ISB    |
+| 10:00   |  A2 vs AISG    | D2 vs WAB    |
+| 11:30    |  A1 vs HKIS   |  C1 vs D1   |
 | 1:30    | L13 vs L14    | L15 vs L16    |
 | 3:00    | A1/B1 vs W13  | C1/D1 vs W14    |
 | 4:30    | C1/D1 vs W15    | A1/B1 vs W16 |
