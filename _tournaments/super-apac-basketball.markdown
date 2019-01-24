@@ -53,7 +53,7 @@ layout: sportapac
 | **Time** | **HS Gym** | **MS Gym** |
 | ------------- | ------------- | ------------- |
 | 9:00    |33 CA vs WAB 21   | 55 BRENT vs ISB 53  |
-| 10:30   |  SFS vs HKIS    | TCIS vs AISG    |
+| 10:30   | 51 SFS vs HKIS 60   |52 TCIS vs AISG 48   |
 | 12:00    |  WAB vs SASPD   |  ISB vs SASPX  |
 | 2:00    | HKIS vs UNIS    | AISG vs CISS    |
 | 3:30    | SASPD vs CA    | SASPX vs BRENT    |
