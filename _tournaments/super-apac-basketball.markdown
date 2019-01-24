@@ -56,7 +56,7 @@ layout: sportapac
 | 10:30   | 51 SFS vs HKIS 60   |52 TCIS vs AISG 48   |
 | 12:00    |36  WAB vs SASPD 65  | 31 ISB vs SASPX 48 |
 | 2:00    | 62 HKIS vs UNIS 43   | 48 AISG vs CISS 66    |
-| 3:30    | SASPD vs CA    | SASPX vs BRENT    |
+| 3:30    | 57 SASPD vs CA 33   | 46  SASPX vs BRENT 61   |
 | 5:00    | UNIS vs SFS    |    CISS vs TCIS    |
 
 
