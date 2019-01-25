@@ -57,7 +57,7 @@ layout: sportapac
 | 12:00    |36  WAB vs SASPD 65  | 31 ISB vs SASPX 48 |
 | 2:00    | 62 HKIS vs UNIS 43   | 48 AISG vs CISS 66    |
 | 3:30    | 57 SASPD vs CA 33   | 46  SASPX vs BRENT 61   |
-| 5:00    | UNIS vs SFS    |    CISS vs TCIS    |
+| 5:00    |  27  UNIS vs SFS  45  |  66  CISS vs TCIS 45   |
 
 
 ## Friday, January 25, 2019
