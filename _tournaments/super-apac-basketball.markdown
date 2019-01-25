@@ -16,8 +16,8 @@ welcome: "APAC BOYS SUPER BASKETBALL 2019\n\n\nWelcome teams to Hong Kong!   HKI
   by the end of the week, we hope each of you will have a fond memories of APAC 2019
   that included fair play and creating connections with other international students\n"
 streams:
-- https://www.youtube.com/embed/Mhh8qWva5FI
-- https://www.youtube.com/embed/rgqefeVudyM
+- https://www.youtube.com/embed/ERYeEWPUL4k
+- https://www.youtube.com/embed/fyMtW5ueUTw
 schedule: "/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).png"
 roster: true
 teams:
@@ -69,17 +69,17 @@ layout: sportapac
 | 11:30    | 56 SASPD vs HKIS 61  |  BRENT/ vs CISS   |
 | 1:30    | UNIS 50 vs ISB 34   | 68 CA vs TCIS  48  |
 | 3:00    | 61 HKIS vs SASPX 56 | 75 CISS vs SFS 70 OT    |
-| 4:30    | C1/D1 vs AISG    | A1/B1 vs WAB |
+| 4:30    | BRENT vs AISG    | SASPD vs WAB |
 
 
 ## Saturday, January 26, 2019
 
 | **Time** | **HS Gym** | **MS Gym** |
 | ------------- | ------------- | ------------- |
-| 8:30   | L15 vs L13    |  L16 vs L14   |
-| 10:00   |  L21 vs L22    | L23 vs L24    |
-| 11:30   |  Semi (W21 vs W22)   | Semi (W23 vs W24) |
-| 1:00  | L13 vs L16    | L14 vs L15    |
+| 8:30   | CA vs UNIS   |  TCIS vs ISB   |
+| 10:00   |  SASPX vs SFS    | AISG vs WAB   |
+| 11:30   |  HKIS v CISS   | Brent v SASPD |
+| 1:00  | UNIS v TCIS    | ISB vs CA   |
 | 2:30    | 5th vs 6th  | 7th vs 8th   |
 | 4:00  |     3rd vs 4th    |       |
 | 5:30    | CHAMPIONSHIP   |        | 
