@@ -16,8 +16,8 @@ welcome: "APAC BOYS SUPER BASKETBALL 2019\n\n\nWelcome teams to Hong Kong!   HKI
   by the end of the week, we hope each of you will have a fond memories of APAC 2019
   that included fair play and creating connections with other international students\n"
 streams:
-- https://www.youtube.com/embed/GGNyaRJ_e2o
-- https://www.youtube.com/embed/jy1U1GTV0DA
+- https://www.youtube.com/embed/ERYeEWPUL4k
+- https://www.youtube.com/embed/fyMtW5ueUTw
 schedule: "/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).png"
 roster: true
 teams:
@@ -77,7 +77,7 @@ layout: sportapac
 | **Time** | **HS Gym** | **MS Gym** |
 | ------------- | ------------- | ------------- |
 | 8:30   |34 CA vs UNIS  60 | 49 TCIS vs ISB 59  |
-| 10:00   |  SASPX vs SFS    | AISG vs WAB   |
+| 10:00   | 43 SASPX vs SFS 53   | 38 AISG vs WAB 25   |
 | 11:30   |  HKIS v CISS   | Brent v SASPD |
 | 1:00  | UNIS v TCIS    | ISB vs CA   |
 | 2:30    | 5th vs 6th  | 7th vs 8th   |
