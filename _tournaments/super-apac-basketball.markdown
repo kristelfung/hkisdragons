@@ -16,7 +16,7 @@ welcome: "APAC BOYS SUPER BASKETBALL 2019\n\n\nWelcome teams to Hong Kong!   HKI
   by the end of the week, we hope each of you will have a fond memories of APAC 2019
   that included fair play and creating connections with other international students\n"
 streams:
-- https://www.youtube.com/embed/EmdsTqFKnrM
+- https://www.youtube.com/embed/GGNyaRJ_e2o
 - https://www.youtube.com/embed/jy1U1GTV0DA
 schedule: "/uploads/APAC%20BOYS%20SUPER%20BASKETBALL%202019%20(4)%20(1).png"
 roster: true
