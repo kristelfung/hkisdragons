@@ -76,7 +76,7 @@ layout: sportapac
 
 | **Time** | **HS Gym** | **MS Gym** |
 | ------------- | ------------- | ------------- |
-| 8:30   | CA vs UNIS   |  TCIS vs ISB   |
+| 8:30   |34 CA vs UNIS  60 | 49 TCIS vs ISB 59  |
 | 10:00   |  SASPX vs SFS    | AISG vs WAB   |
 | 11:30   |  HKIS v CISS   | Brent v SASPD |
 | 1:00  | UNIS v TCIS    | ISB vs CA   |
