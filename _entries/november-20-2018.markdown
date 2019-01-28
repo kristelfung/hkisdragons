@@ -15,4 +15,6 @@ APAC CHOIR:  [https://apacarts.unishanoi.org/](https://apacarts.unishanoi.org/)
 
 Thanks to all who represented HKIS this weekend!
 
-![Screen Shot 2018-11-22 at 11.03.55 AM.png](/uploads/Screen%20Shot%202018-11-22%20at%2011.03.55%20AM.png)
+**NETBALL WINS PLATE! **
+
+Our netball team traveled to Shanghai to participate in the Nord Anglia competition and came home with the plate championship, winning 19-5. Well done girls! Shout out to seniors Ann Brooks, Samantha Lee, Bianca Garcia, and Kaylin Chong.
