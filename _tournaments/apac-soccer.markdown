@@ -7,7 +7,7 @@ welcome:
 streams:
 - 
 - 
-schedule: 
+schedule: "/uploads/Screen%20Shot%202019-03-28%20at%2011.29.36%20PM.png"
 roster: true
 layout: sportapac
 ---
