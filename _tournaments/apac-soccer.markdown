@@ -2,7 +2,7 @@
 title: APAC Girls Soccer
 date: 2019-03-27 09:44:00 Z
 duration: April 10 - 15
-image: 
+image: "/uploads/IMG_6080.jpg"
 welcome: "Welcome to Hong Kong!  Hong Kong International School is excited to host
   this year’s Asia Pacific Activities Conference– Asia Division Girls Soccer Championships.
   \ This year’s competition will feature fantastic soccer athletes from Canadian Academy
