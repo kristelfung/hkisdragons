@@ -41,3 +41,37 @@ teams:
 layout: sportapac
 ---
 
+# **Thursday, April 11, 2019**
+
+| **Time** | **Game** | 
+| ------------- | ------------- |
+| 9:00    | CA vs HKIS   | 
+| 10:40   | UNIS vs SFS   |
+| 12:20    | SASPD vs WAB  |
+| 2:20    | HKIS vs UNIS   | 
+| 3:40    | SFS vs SASPD  | 
+| 5:20    | WAB vs CA |  
+
+## Friday, April 12, 2019
+
+| **Time** | **Game** |
+| ------------- | ------------- | 
+| 8:30    | SASPD vs HKIS  |
+| 10:10   | WAB vs SFS  | 
+| 11:50    | CA vs UNIS  | 
+| 1:30    | HKIS vs WAB  | 
+| 3:10    | SFS vs SCA | 
+| 4:50    | UNIS vs SASPD  |
+
+## Saturday, April 13, 2019
+
+| **Time** | **Game** | 
+| ------------- | ------------- | 
+| 8:30   | SFS vs HKIS | 
+| 10:10   | UNIS vs WAB   | 
+| 11:50   | CA vs SASPD  |  
+| 1:30  | 5 v 6  |
+| 3:10  | 2 v 3 CONSOLATION |
+| 4:50  |  1 v 2 CHAMPIONS  | 
+
+**Note: **Home team is listed first and wears light colored uniforms
