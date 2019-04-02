@@ -12,4 +12,4 @@ layout: home
 
 # APAC SOCCER
 
-##### April 10 - 15
+##### April 10 - 14
