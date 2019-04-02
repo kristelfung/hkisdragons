@@ -25,6 +25,19 @@ streams:
 - 
 schedule: "/uploads/Screen%20Shot%202019-03-28%20at%2011.29.36%20PM.png"
 roster: true
+teams:
+- name: CA
+  image: "/uploads/CA_APAC%20G%20Soccer%20Photo%202019.jpg"
+- name: HKIS
+  image: "/uploads/HKIS_APAC%20G%20Soccer%20Photo%202019.jpg"
+- name: SAS PD
+  image: 
+- name: SFS
+  image: 
+- name: UNIS
+  image: 
+- name: WAB
+  image: 
 layout: sportapac
 ---
 
