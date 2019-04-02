@@ -31,13 +31,13 @@ teams:
 - name: HKIS
   image: "/uploads/HKIS_APAC%20G%20Soccer%20Photo%202019.jpg"
 - name: SAS PD
-  image: 
+  image: "/uploads/Screen%20Shot%202019-04-02%20at%2012.00.18%20PM.png"
 - name: SFS
-  image: 
+  image: "/uploads/SFS_APAC%20G%20Soccer%20Photo.png"
 - name: UNIS
-  image: 
+  image: "/uploads/UNIS_APAC%20G%20Soccer%20Photo%202019.JPG"
 - name: WAB
-  image: 
+  image: "/uploads/WAB_APAC%20G%20Soccer%20Photo%202019.jpg"
 layout: sportapac
 ---
 
