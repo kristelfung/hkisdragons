@@ -6,7 +6,7 @@ year: 2018-2019
 sports: rugby, baseball, cross country, basketball, softball, soccer, badminton
 link: apac-soccer
 order: 1
-image: "/uploads/IMG_4844.jpg"
+image: "/uploads/IMG_6073.jpg"
 layout: home
 ---
 
