@@ -6,7 +6,7 @@ year: 2018-2019
 sports: rugby, baseball, cross country, basketball, softball, soccer, badminton
 link: apac-soccer
 order: 1
-image: "/uploads/G%20V%20SOC%20EMMA.jpg"
+image: "/uploads/Screen%20Shot%202019-04-08%20at%201.01.53%20AM.png"
 layout: home
 ---
 
