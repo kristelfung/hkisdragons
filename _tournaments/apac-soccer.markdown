@@ -21,7 +21,6 @@ welcome: "Welcome to Hong Kong!  Hong Kong International School is excited to ho
   new ones, and had a blast playing a sport that you are passionate about.  All the
   best - - \n\n\nSharon H. Leung\nAthletics Director\nHKIS\n"
 streams:
-- https://www.youtube.com/embed/C3XTy_XZxog
 - https://www.youtube.com/embed/udrMPqvUhfY
 - https://www.youtube.com/embed/ewTEaAgxaCo
 schedule: "/uploads/Screen%20Shot%202019-03-28%20at%2011.29.36%20PM.png"
