@@ -48,10 +48,10 @@ layout: sportapac
 | ------------- | ------------- |
 | 9:00    | CA 0 vs **HKIS 3**   |
 | 10:40   | **UNIS 2** vs SFS 0  |
-| 12:20    | SASPD vs WAB  |
-| 2:20    | HKIS vs UNIS   |
-| 3:40    | SFS vs SASPD  |
-| 5:20    | WAB vs CA |
+| 12:20    | SASPD 0 vs **WAB 3**  |
+| 2:20    | **HKIS 3** vs UNIS 2   |
+| 3:40    | **SFS 1** vs SASPD 0  |
+| 5:20    | WAB 1 vs** CA 2** |
 
 ## Friday, April 12, 2019
 
