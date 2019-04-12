@@ -50,14 +50,14 @@ layout: sportapac
 | 12:20    | SASPD 0 vs **WAB 3**  |
 | 2:20    | **HKIS 3** vs UNIS 2   |
 | 3:40    | **SFS 1** vs SASPD 0  |
-| 5:20    | WAB 1 vs** CA 2** |
+| 5:20    | WAB 1 vs **CA 2** |
 
 ## Friday, April 12, 2019
 
 | **Time** | **Game** |
 | ------------- | ------------- |
-| 8:30    | SASPD vs HKIS  |
-| 10:10   | WAB vs SFS  |
+| 8:30    | SASPD 1 vs **HKIS 3**  |
+| 10:10   | **WAB 3** vs SFS 1  |
 | 11:50    | CA vs UNIS  |
 | 1:30    | HKIS vs WAB  |
 | 3:10    | SFS vs SCA |
