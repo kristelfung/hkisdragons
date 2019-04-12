@@ -60,7 +60,7 @@ layout: sportapac
 | 10:10   | **WAB 3** vs SFS 1  |
 | 11:50    | CA 0 vs **UNIS 1**  |
 | 1:30    | **HKIS 1** vs WAB 0  |
-| 3:10    | SFS vs SCA |
+| 3:10    | SFS 0 vs **CA 3** |
 | 4:50    | UNIS vs SASPD  |
 
 ## Saturday, April 13, 2019
