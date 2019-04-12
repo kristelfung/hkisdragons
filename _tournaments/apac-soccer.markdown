@@ -58,7 +58,7 @@ layout: sportapac
 | ------------- | ------------- |
 | 8:30    | SASPD 1 vs **HKIS 3**  |
 | 10:10   | **WAB 3** vs SFS 1  |
-| 11:50    | CA vs UNIS  |
+| 11:50    | CA 0 vs **UNIS 1**  |
 | 1:30    | HKIS vs WAB  |
 | 3:10    | SFS vs SCA |
 | 4:50    | UNIS vs SASPD  |
