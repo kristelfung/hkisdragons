@@ -69,8 +69,8 @@ layout: sportapac
 | 8:30   | SFS 1 vs **HKIS 2**  |
 | 10:10   | UNIS 1 vs WAB 1   |
 | 11:50   | CA vs SASPD  |\
-| 1:30  | 5 v 6  |
-| 3:10  | 2 v 3 CONSOLATION |
-| 4:50  |  1 v 2 CHAMPIONS  |
+| 1:30  | SFS v SASPD  |
+| 3:10  | WAB v CA |
+| 4:50  |  HKIS v UNIS  |
 
 \*\*Note: \*\*Home team is listed first and wears light colored uniforms
